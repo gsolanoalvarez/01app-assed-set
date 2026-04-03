@@ -464,6 +464,22 @@
       "c": "Musica"
     },
     {
+      "n": "Kpop tv",
+      "e": "activo",
+      "g": "Musica",
+      "l": "https://i.imgur.com/MSfpdNk.png",
+      "s1": "https://live.24hrkpop.com/hls/1/stream.m3u8?cachebust=03f7728c",
+      "c": "Musica"
+    },
+    {
+      "n": "New Kpop",
+      "e": "activo",
+      "g": "Musica",
+      "l": "https://i.imgur.com/LlYfZAe.png",
+      "s1": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8",
+      "c": "Musica"
+    },
+    {
       "n": "Planeta tv",
       "e": "activo",
       "g": "Musica",

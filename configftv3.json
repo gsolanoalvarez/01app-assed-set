@@ -1,0 +1,31 @@
+{
+  "config": {
+    "s1": "https://spaceyou.store/v1.php?channel=",
+    "s2": "https://spaceyou.store/v3.php?channel=",
+    "s3": "https://spaceyou.store/v3.php?channel=",
+    "s4": "https://spaceyou.store/v1.php?channel=",
+    "s5": "https://spaceyou.store/v3.php?channel=",
+    "l1": "",
+    "l2": ""
+  },
+  "channels": [
+    { "name": "ESPN", "s1": "espn", "s2": "espn", "s3": "espnar", "s4": "espnmx", "s5": "espnmx"},
+    { "name": "ESPN 2", "s1": "espn2", "s2": "espn2", "s3": "espn2ar", "s4": "espn2ar", "s1": "espnmx2"},
+    { "name": "ESPN 3", "s1": "espn3", "s2": "espn3", "s3": "espn3ar", "s4": "espn3mx"},
+    { "name": "ESPN 4", "s1": "espn4", "s2": "espn4"},
+    { "name": "ESPN 5", "s1": "espn5", "s2": "espn5" },
+    { "name": "ESPN 6", "s1": "espn6", "s2": "espn6" },
+    { "name": "ESPN 7", "s1": "espn7", "s2": "espn7" },
+    { "name": "ESPN PREMIUM", "s1": "espnpremium", "s2": "espnpremium"},
+    { "name": "DSPORTS", "s1": "dsports", "s2": "dsports" },
+    { "name": "DSPORTS", "s1": "dsports2", "s2": "dsports2" },
+    { "name": "DSPORTSPLUS", "s1": "dsportsplus", "s2": "dsportsplus"},
+    { "name": "TNT SPORTS",  "s1": "tntsports", "s2": "tntsports" },
+    { "name": "LIGA 1 MAX", "s1": "liga1max", "s2": "liga1max" },
+    { "name": "ESPN DEPORTES",  "s2": "espndeportes", "s1": "espndeportes"},
+    { "name": "BEIN SPORT ES", "s2": "beinsportes"},
+    { "name": "BEIN SPORT EXTRA", "s2": "beinsport_xtra_espanol"},
+    { "name": "WIN SPORTSPLUS", "s1": "winplus2", "s2": "winsportsplus", "s3": "winsports2", "s4": "winplus"},
+    { "name": "WIN SPORTS", "s2": "winsports", "s1": "winsports" }
+   ]
+}

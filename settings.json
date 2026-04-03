@@ -26,7 +26,7 @@
       "n": "Invasiva avi",
       "e": "activo",
       "g": "diverso",
-      "l": "https://i.imgur.com/keDSSzY.png",
+      "l": "https://i.imgur.com/FzVhtkQ.png",
       "s1": "https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8",
       "c": "Peliculas"
     },
@@ -66,7 +66,7 @@
       "n": "fm cosmo tv",
       "e": "activo",
       "g": "diverso",
-      "l": "https://i.imgur.com/FYFZD9t.png",
+      "l": "https://i.imgur.com/YuH7JoD.png",
       "s1": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
       "c": "Peliculas"
     },
@@ -146,7 +146,7 @@
       "n": "Kanade",
       "e": "activo",
       "g": "Animacion",
-      "l": "https://i.imgur.com/BllkyYT.png",
+      "l": "https://i.imgur.com/BllkzYT.png",
       "s1": "https://static.kanade.cl/hls/kanade.m3u8",
       "c": "Anime"
     },
@@ -267,7 +267,7 @@
       "n": "Talta tv",
       "e": "activo",
       "g": "Animacion",
-      "l": "https://i.imgur.com/6bpmTEO.png",
+      "l": "https://i.imgur.com/75Pa4wH.png",
       "s1": "https://live20.bozztv.com/giatv/giatv-TALTALPELICULAS/TALTALPELICULAS/chunks.m3u8",
       "c": "Anime"
     },
@@ -291,7 +291,7 @@
       "n": "Gogoplay TV",
       "e": "activo",
       "g": "Animacion",
-      "l": "https://i.imgur.com/zAWE9P4.png",
+      "l": "https://i.imgur.com/Mfpgx13.png",
       "s1": "https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8",
       "c": "Anime"
     },
@@ -315,7 +315,7 @@
       "n": "Locomotion",
       "e": "activo",
       "g": "Animacion",
-      "l": "https://i.imgur.com/lrYLUHH.png",
+      "l": "https://i.imgur.com/lrYLU4H.png",
       "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8",
       "c": "Anime"
     },
@@ -419,7 +419,7 @@
       "n": "Gam tv",
       "e": "activo",
       "g": "Retro, aventura, diverso",
-      "l": "https://i.imgur.com/lMTPNr8.png",
+      "l": "https://i.imgur.com/AGsXASp.png",
       "s1": "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8",
       "c": "Variado"
     },
@@ -427,7 +427,7 @@
       "n": "Imvasiva Media",
       "e": "activo",
       "g": "Retro, aventura, diverso",
-      "l": "https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg",
+      "l": "https://i.imgur.com/FzVhtkQ.png",
       "s1": "https://tv.invasivamedia.com/hls/limtv.m3u8",
       "c": "Variado"
     },
@@ -440,18 +440,10 @@
       "c": "Variado"
     },
     {
-      "n": "Extrema TV Kids",
-      "e": "activo",
-      "g": "Retro, aventura, diverso",
-      "l": "https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png",
-      "s1": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
-      "c": "Variado"
-    },
-    {
       "n": "Pitufo TV",
       "e": "activo",
       "g": "Retro, aventura, diverso",
-      "l": "https://i.ibb.co/TVH9gvB/Logo-Pitufo-TV.png",
+      "l": "https://i.imgur.com/r34FsKT.png",
       "s1": "https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8",
       "c": "Variado"
     },
@@ -459,15 +451,15 @@
       "n": "Real Madrid tv",
       "e": "activo",
       "g": "Deporte",
-      "l": "https://i.imgur.com/NknFWNx.png",
-      "s1": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-      "c": "Musica"
+      "l": "https://i.imgur.com/6m0PZBp.png",
+      "s1": "https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775268507_RblJafnhZHNgSos2_ccba268373f5b6f7b9c417edba56c08d4eabddba/id=37680160-b23d-45ee-bcaa-1ec7a3665c21/data=dWlkPVZoekQzWnwwYjY2NGQ1NC02OWE4LTRlNzYtOTI1Ny00MGJmMDlmYjdmNzcmaXA9MjgwMzplYzkwOjEwMDk6ZDgwMDo4NDU4OmI3OTk6ZTY4Zjo4OTk4JmV4cD0xNzc1MjY4NTM1JmVpZD0yMzcyODQmY2lkPWRjZS5yZWFsbWFkcmlkJm9pZD0zNDcmdHlwZT1MSVZF/hls/live/2001479~/hls/live/2001479/237284-313745/exchange237284txfbj_237284_4500/chunklist-d.m3u8",
+      "c": "Deportes"
     },
     {
       "n": "Kpop",
       "e": "activo",
       "g": "Musica",
-      "l": "https://neotv.cl/assets/img/channels/kpop-vf.png",
+      "l": "https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png",
       "s1": "https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
       "c": "Musica"
     },
@@ -483,7 +475,7 @@
       "n": "TopLatino",
       "e": "activo",
       "g": "Musica",
-      "l": "https://i.imgur.com/DRBKglx.png",
+      "l": "https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png",
       "s1": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1252102755_tkd293emF0b2J2dGxlYmN0YmJ0YmJ0YmJ0ZT0xNzc1MTQ2MzA4Jmndvd3phdG92dGxlbmhoa2Z9QUZjYUx10SThfbmxtZVY9GTXWdGJLVVTc0MjhylXIyOTZFaW11blgzMWRmVT0.m3u8",
       "c": "Musica"
     },

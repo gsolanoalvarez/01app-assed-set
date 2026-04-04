@@ -1,31 +1,32 @@
-{
-  "config": {
-    "s1": "https://spaceyou.store/v1.php?channel=",
-    "s2": "https://spaceyou.store/v3.php?channel=",
-    "s3": "https://spaceyou.store/v3.php?channel=",
-    "s4": "https://spaceyou.store/v1.php?channel=",
-    "s5": "https://spaceyou.store/v3.php?channel=",
-    "l1": "",
-    "l2": ""
-  },
-  "channels": [
-    { "name": "ESPN", "s1": "espn", "s2": "espn", "s3": "espnar", "s4": "espnmx", "s5": "espnmx"},
-    { "name": "ESPN 2", "s1": "espn2", "s2": "espn2", "s3": "espn2ar", "s4": "espn2ar", "s1": "espnmx2"},
-    { "name": "ESPN 3", "s1": "espn3", "s2": "espn3", "s3": "espn3ar", "s4": "espn3mx"},
-    { "name": "ESPN 4", "s1": "espn4", "s2": "espn4"},
-    { "name": "ESPN 5", "s1": "espn5", "s2": "espn5" },
-    { "name": "ESPN 6", "s1": "espn6", "s2": "espn6" },
-    { "name": "ESPN 7", "s1": "espn7", "s2": "espn7" },
-    { "name": "ESPN PREMIUM", "s1": "espnpremium", "s2": "espnpremium"},
-    { "name": "DSPORTS", "s1": "dsports", "s2": "dsports" },
-    { "name": "DSPORTS", "s1": "dsports2", "s2": "dsports2" },
-    { "name": "DSPORTSPLUS", "s1": "dsportsplus", "s2": "dsportsplus"},
-    { "name": "TNT SPORTS",  "s1": "tntsports", "s2": "tntsports" },
-    { "name": "LIGA 1 MAX", "s1": "liga1max", "s2": "liga1max" },
-    { "name": "ESPN DEPORTES",  "s2": "espndeportes", "s1": "espndeportes"},
-    { "name": "BEIN SPORT ES", "s2": "beinsportes"},
-    { "name": "BEIN SPORT EXTRA", "s2": "beinsport_xtra_espanol"},
-    { "name": "WIN SPORTSPLUS", "s1": "winplus2", "s2": "winsportsplus", "s3": "winsports2", "s4": "winplus"},
-    { "name": "WIN SPORTS", "s2": "winsports", "s1": "winsports" }
-   ]
+{ 
+"version": "1.1", 
+"config": { 
+"s1": "aHR0cHM6Ly9zcGFjZXlvdS5zdG9yZS92MS5waHA/Y2hhbm5lbD0=",
+"s2": "aHR0cHM6Ly9zcGFjZXlvdS5zdG9yZS92My5waHA/Y2hhbm5lbD0=", 
+"s3": "aHR0cHM6Ly9zcGFjZXlvdS5zdG9yZS92My5waHA/Y2hhbm5lbD0=", 
+"s4": "aHR0cHM6Ly9zcGFjZXlvdS5zdG9yZS92MS5waHA/Y2hhbm5lbD0=", 
+"s5": "aHR0cHM6Ly9zcGFjZXlvdS5zdG9yZS92My5waHA/Y2hhbm5lbD0=", 
+"l1": "",
+"l2": "" 
+}, 
+"channels": [ 
+{ "name": "RVNQTg==", "s1": "ZXNwbg==", "s2": "ZXNwbg==", "s3": "ZXNwbmFy", "s4": "ZXNwbm14", "s5": "ZXNwbm14"}, 
+{ "name": "RVNQTiAy", "s1": "ZXNwbjI=", "s2": "ZXNwbjI=", "s3": "ZXNwbjJhcg==", "s4": "ZXNwbjJhcg==", "s1": "ZXNwbm14Mg=="}, 
+{ "name": "RVNQTiAz", "s1": "ZXNwbjM=", "s2": "ZXNwbjM=", "s3": "ZXNwbjNhcg==", "s4": "ZXNwbjNteA=="}, 
+{ "name": "RVNQTiA0", "s1": "ZXNwbjQ=", "s2": "ZXNwbjQ="},
+{ "name": "RVNQTiA1", "s1": "ZXNwbjU=", "s2": "ZXNwbjU=" }, 
+{ "name": "RVNQTiA2", "s1": "ZXNwbjY=", "s2": "ZXNwbjY=" }, 
+{ "name": "RVNQTiA3", "s1": "ZXNwbjc=", "s2": "ZXNwbjc=" }, 
+{ "name": "RVNQTiBQUkVNSVVN", "s1": "ZXNwbnByZW1pdW0=", "s2": "ZXNwbnByZW1pdW0=" }, 
+{ "name": "RFNQT1JUUw==", "s1": "ZHNwb3J0cw==", "s2": "ZHNwb3J0cw==" }, 
+{ "name": "RFNQT1JUUw==", "s1": "ZHNwb3J0czI=", "s2": "ZHNwb3J0czI=" }, 
+{ "name": "RFNQT1JUU1BMVVM=", "s1": "ZHNwb3J0c3BsdXM=", "s2": "ZHNwb3J0c3BsdXM=" }, 
+{ "name": "VE5UIFNQT1JUUw==", "s1": "dG50c3BvcnRz", "s2": "dG50c3BvcnRz" }, 
+{ "name": "TElHQSAxIE1BWA==", "s1": "bGlnYTFtYXg=", "s2": "bGlnYTFtYXg=" }, 
+{ "name": "RVNQTiBERVBPUlRFUw==", "s2": "ZXNwbmRlcG9ydGVz", "s1": "ZXNwbmRlcG9ydGVz" }, 
+{ "name": "QkVJTiBTUE9SVCBFUw==", "s2": "YmVpbnNwb3J0ZXM="}, 
+{ "name": "QkVJTiBTUE9SVCBFWFRSQQ==", "s2": "YmVpbnNwb3J0X3h0cmFfZXNwYW5vbA=="}, 
+{ "name": "V0lOIFNQT1JUU1BMVVM=", "s1": "d2lucGx1czI=", "s2": "d2luc3BvcnRzcGx1cw==", "s3": "d2luc3BvcnRzMg==", "s4": "d2lucGx1cw==" }, 
+{ "name": "V0lOIFNQT1JUUw==", "s2": "d2luc3BvcnRz", "s1": "d2luc3BvcnRz" } 
+] 
 }

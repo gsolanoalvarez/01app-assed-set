@@ -1,9 +1,8 @@
 {
-  "event1": "https://la14hd.com/eventos/json/agenda123.json",
-  "event2": "https://streamtpnew.com/eventos.json?nocache=1774217080884",
-  "event3": "https://fubolazo.com/agenda.json",
+  "eventp 1": "https://la14hd.com/eventos/json/agenda123.json",
+  "evento 2": "https://streamtpnew.com/eventos.json?nocache=1774217080884",
+  "evento 3": "https://fubolazo.com/agenda.json",
   "tv1": "https://raw.githubusercontent.com/gsolanoalvarez/01app-assed-set/refs/heads/main/setttingsf.json",
   "tv3": "https://raw.githubusercontent.com/gsolanoalvarez/01app-assed-set/refs/heads/main/configftv3.json",
-  "tv2": "https://la14hd.com/status.json",
-  "tv4": "https://la14hd.com/status.json"
+  "tv2": "https://la14hd.com/status.json"
 }

@@ -63,22 +63,6 @@
       "c": "Peliculas"
     },
     {
-      "n": "Bayres tv",
-      "e": "activo",
-      "g": "animacion",
-      "l": "https://i.imgur.com/AV6FabN.png",
-      "s1": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1735478623.m3u8",
-      "c": "Peliculas"
-    },
-    {
-      "n": "Big Channel",
-      "e": "activo",
-      "g": "accion, fantasia, drama",
-      "l": "https://i.imgur.com/h3Vmx54.png",
-      "s1": "https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8",
-      "c": "Peliculas"
-    },
-    {
       "n": "fm cosmo tv",
       "e": "activo",
       "g": "diverso",
@@ -107,7 +91,7 @@
       "e": "activo",
       "g": "diverso",
       "l": "https://i.imgur.com/FhNmd3G.png",
-      "s1": "https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8",
+      "s1": "https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=6367117",
       "c": "Peliculas"
     },
     {
@@ -123,7 +107,7 @@
       "e": "activo",
       "g": "diverso",
       "l": "https://i.imgur.com/gmMKLvu.png",
-      "s1": "https://mlb&Wssastream.com:8081/orbittv/index.m3u8",
+      "s1": "https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8",
       "c": "Peliculas"
     },
     {
@@ -168,11 +152,11 @@
       "li": 1
     },
     {
-      "n": "Laika Channel LA",
+      "n": "Primired",
       "e": "activo",
       "g": "Animacion",
-      "l": "https://i.ibb.co/xKQgV5L6/Logo-Laika-Channel-LA.png",
-      "s1": "https://mitv.zplay.cl/LaikaTV/video.m3u8?token=D4lm1R0m-tFJES",
+      "l": "https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png",
+      "s1": "https://stream.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8",
       "c": "Anime",
       "li": 1
     },
@@ -270,7 +254,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/fill/w_135,h_66,al_c,q_85/usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png",
-      "s1": "https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8",
+      "s1": "https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8",
       "c": "Anime"
     },
     {
@@ -311,14 +295,6 @@
       "g": "Animacion",
       "l": "https://i.imgur.com/JUz4bCj.png",
       "s1": "https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8",
-      "c": "Anime"
-    },
-    {
-      "n": "Talta tv",
-      "e": "activo",
-      "g": "Animacion",
-      "l": "https://i.imgur.com/75Pa4wH.png",
-      "s1": "https://live20.bozztv.com/giatv/giatv-TALTALPELICULAS/TALTALPELICULAS/chunks.m3u8",
       "c": "Anime"
     },
     {
@@ -374,22 +350,14 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/h8miDFW.png",
-      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
-      "c": "Retro"
-    },
-    {
-      "n": "Retrotv",
-      "e": "activo",
-      "g": "Animacion",
-      "l": "https://i.imgur.com/YBakeNZ.png",
-      "s1": "https://live21.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8",
+      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8",
       "c": "Retro"
     },
     {
       "n": "Best clasicos",
       "e": "activo",
       "g": "Retro, aventura",
-      "l": "https://www.vivalbuetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg",
+      "l": "https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg",
       "s1": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
       "c": "Retro"
     },
@@ -398,7 +366,7 @@
       "e": "activo",
       "g": "Retro, aventura",
       "l": "https://i.imgur.com/yELGuZE.png",
-      "s1": "https://live20.bozztv.com/akamaissh101/ssh101/teleklasik/chunks.m3u8",
+      "s1": "https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8?hls_ctx=l122i275",
       "c": "Retro"
     },
     {
@@ -414,7 +382,7 @@
       "e": "activo",
       "g": "Retro, aventura",
       "l": "https://i.imgur.com/q5106PD.png",
-      "s1": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=300453591",
+      "s1": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=321202165",
       "c": "Retro"
     },
     {
@@ -474,14 +442,6 @@
       "c": "Variado"
     },
     {
-      "n": "Imvasiva Media",
-      "e": "activo",
-      "g": "Retro, aventura, diverso",
-      "l": "https://i.imgur.com/FzVhtkQ.png",
-      "s1": "https://tv.invasivamedia.com/hls/limtv.m3u8",
-      "c": "Variado"
-    },
-    {
       "n": "telelima",
       "e": "activo",
       "g": "Retro, aventura, diverso",
@@ -502,7 +462,7 @@
       "e": "activo",
       "g": "Deporte",
       "l": "https://i.imgur.com/6m0PZBp.png",
-      "s1": "https://dice-live-eu.cdnfastly.endeavorstreaming.net/1775268507_RblJafnhZHNgSos2_ccba268373f5b6f7b9c417edba56c08d4eabddba/id=37680160-b23d-45ee-bcaa-1ec7a3665c21/data=dWlkPVZoekQzWnwwYjY2NGQ1NC02OWE4LTRlNzYtOTI1Ny00MGJmMDlmYjdmNzcmaXA9MjgwMzplYzkwOjEwMDk6ZDgwMDo4NDU4OmI3OTk6ZTY4Zjo4OTk4JmV4cD0xNzc1MjY4NTM1JmVpZD0yMzcyODQmY2lkPWRjZS5yZWFsbWFkcmlkJm9pZD0zNDcmdHlwZT1MSVZF/hls/live/2001479~/hls/live/2001479/237284-313745/exchange237284txfbj_237284_4500/chunklist-d.m3u8",
+      "s1": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
       "c": "Deportes"
     },
     {
@@ -530,19 +490,11 @@
       "c": "Musica"
     },
     {
-      "n": "Planeta tv",
-      "e": "activo",
-      "g": "Musica",
-      "l": "https://i.imgur.com/G8sw9hz.png",
-      "s1": "https://tls-cl.cdnj.cl/planetatv/live/chunklist_w42654870.m3u8",
-      "c": "Musica"
-    },
-    {
       "n": "TopLatino",
       "e": "activo",
       "g": "Musica",
       "l": "https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png",
-      "s1": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1252102755_tkd293emF0b2J2dGxlYmN0YmJ0YmJ0YmJ0ZT0xNzc1MTQ2MzA4Jmndvd3phdG92dGxlbmhoa2Z9QUZjYUx10SThfbmxtZVY9GTXWdGJLVVTc0MjhylXIyOTZFaW11blgzMWRmVT0.m3u8",
+      "s1": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1778199361&wowzatokenendtime=1778200361&wowzatokenhash=TPN6SVvnKKzD-YP5MWeaB0lM3XwO9tqAb0L_X9c-XY8=",
       "c": "Musica"
     },
     {
@@ -550,7 +502,7 @@
       "e": "activo",
       "g": "Musica",
       "l": "https://a.jsrdn.com/hls/23195/hits-mexicanos/logo_20250109_231027_70.png",
-      "s1": "https://d3s7x6kmqcnb6b.cloudfront.net/hls/KSKRKJA/3F13C2D7DEBF/m.m3u8",
+      "s1": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8",
       "c": "Musica"
     }
   ]

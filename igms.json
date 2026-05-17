@@ -2,26 +2,26 @@
   "imagenes": [
     {
       "id": 1,
-      "titulo": "Imagen 1",
-      "descripcion": "Primera imagen",
+      "titulo": "",
+      "descripcion": "",
       "url": "https://i.imgur.com/Bn2uJLf.png"
     },
     {
       "id": 2,
-      "titulo": "Imagen 2",
-      "descripcion": "Segunda imagen",
+      "titulo": "",
+      "descripcion": "",
       "url": "https://i.imgur.com/tFwTvNH.png"
     },
      {
-      "id": 2,
-      "titulo": "Imagen 2",
-      "descripcion": "Segunda imagen",
+      "id": 3,
+      "titulo": "",
+      "descripcion": "",
       "url": "https://i.imgur.com/KvvfciT.png"
     },
     {
-      "id": 2,
-      "titulo": "Imagen 2",
-      "descripcion": "Segunda imagen",
+      "id": 4,
+      "titulo": "",
+      "descripcion": "",
       "url": "https://i.imgur.com/uUu4YTd.png"
     }
   ]

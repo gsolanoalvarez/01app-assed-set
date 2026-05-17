@@ -10,7 +10,19 @@
       "id": 2,
       "titulo": "Imagen 2",
       "descripcion": "Segunda imagen",
-      "url": "https://i.imgur.com/Bn2uJLf.png"
+      "url": "https://i.imgur.com/tFwTvNH.png"
+    },
+     {
+      "id": 2,
+      "titulo": "Imagen 2",
+      "descripcion": "Segunda imagen",
+      "url": "https://i.imgur.com/KvvfciT.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Imagen 2",
+      "descripcion": "Segunda imagen",
+      "url": "https://i.imgur.com/uUu4YTd.png"
     }
   ]
 }

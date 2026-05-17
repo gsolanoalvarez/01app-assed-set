@@ -1,0 +1,16 @@
+{
+  "imagenes": [
+    {
+      "id": 1,
+      "titulo": "Imagen 1",
+      "descripcion": "Primera imagen",
+      "url": "https://i.imgur.com/Bn2uJLf.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Imagen 2",
+      "descripcion": "Segunda imagen",
+      "url": "https://i.imgur.com/Bn2uJLf.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "imagenes": [
+    {
+      "titulo": "Imagen 1",
+      "url": "https://i.imgur.com/gDOzt6d.jpeg"
+    },
+    {
+      "titulo": "Imagen 2",
+      "url": "https://i.imgur.com/HQTIWMW.jpeg"
+    },
+    {
+      "titulo": "Imagen 3",
+      "url": "https://i.imgur.com/ZXaXP50.png"
+    },
+    {
+      "titulo": "Imagen 4",
+      "url": "https://i.imgur.com/g9GbuQF.jpeg"
+    },
+    {
+      "titulo": "Imagen 5",
+      "url": "https://i.imgur.com/GdSJTcG.jpeg"
+    },
+    {
+      "titulo": "Imagen 6",
+      "url": "https://i.imgur.com/qBIK5mL.jpeg"
+    }
+  ]
+}

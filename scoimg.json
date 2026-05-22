@@ -10,7 +10,7 @@
     },
     {
       "titulo": "Imagen 3",
-      "url": "https://i.imgur.com/ZXaXP50.png"
+      "url": "https://i.imgur.com/vc4WVhL.jpeg"
     },
     {
       "titulo": "Imagen 4",
@@ -23,6 +23,22 @@
     {
       "titulo": "Imagen 6",
       "url": "https://i.imgur.com/qBIK5mL.jpeg"
-    }
+    },
+    {
+      "titulo": "Imagen 7",
+      "url": "https://i.imgur.com/zdw67er.jpeg"
+    },
+    {
+      "titulo": "Imagen 8",
+      "url": "https://i.imgur.com/WvFVdfO.jpeg"
+    },
+    {
+      "titulo": "Imagen 9",
+      "url": "https://i.imgur.com/rbGbP2w.jpeg"
+    },
+    {
+      "titulo": "Imagen 10",
+      "url": "https://i.imgur.com/qBIK5mL.jpeg"
+    },
   ]
 }

@@ -51,7 +51,7 @@
       "e": "activo",
       "g": "diverso",
       "l": "https://i.imgur.com/4xEmxu1.png",
-      "s1": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
+      "s1": "https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8?timestamp=1779515094&wmkid=0&uid=8209793&token=506fdf330fb60ecdd6e3108fb69a2137",
       "c": "Peliculas"
     },
     {
@@ -59,7 +59,7 @@
       "e": "activo",
       "g": "accion, aventura, fantasia",
       "l": "https://i.imgur.com/5CSuSA7.png",
-      "s1": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
+      "s1": "https://es3-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8?timestamp=1779515238&wmkid=0&uid=8209793&token=fe9218bea803decf2097ac466f100095",
       "c": "Peliculas"
     },
     {
@@ -91,7 +91,7 @@
       "e": "activo",
       "g": "diverso",
       "l": "https://i.imgur.com/FhNmd3G.png",
-      "s1": "https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=6367117",
+      "s1": "https://cdn-edge2.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=9601054",
       "c": "Peliculas"
     },
     {
@@ -346,11 +346,11 @@
       "c": "Anime"
     },
     {
-      "n": "teleanimemania",
+      "n": "memorias tv",
       "e": "activo",
       "g": "Animacion",
-      "l": "https://i.imgur.com/h8miDFW.png",
-      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8",
+      "l": "https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png",
+      "s1": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
       "c": "Retro"
     },
     {

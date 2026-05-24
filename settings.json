@@ -63,6 +63,14 @@
       "c": "Peliculas"
     },
     {
+      "n": "Giktv",
+      "e": "activo",
+      "g": "diverso",
+      "l": "https://i.imgur.com/1Syvvh2.png",
+      "s1": "https://pistream.ddns.net/hls/stream.m3u8",
+      "c": "Peliculas"
+    },
+    {
       "n": "fm cosmo tv",
       "e": "activo",
       "g": "diverso",

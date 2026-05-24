@@ -79,11 +79,11 @@
       "c": "Peliculas"
     },
     {
-      "n": "Vision tv",
+      "n": "Laika",
       "e": "activo",
       "g": "diverso",
-      "l": "https://i.imgur.com/gK6BYlp.png",
-      "s1": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+      "l": "https://i.imgur.com/WdPLSUJ.png",
+      "s1": "https://live20.bozztv.com/giatv/giatv-laikatvla/laikatvla/playlist.m3u8",
       "c": "Peliculas"
     },
     {
@@ -318,7 +318,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/Mfpgx13.png",
-      "s1": "https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8",
+      "s1": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
       "c": "Anime"
     },
     {
@@ -330,11 +330,11 @@
       "c": "Anime"
     },
     {
-      "n": "ZAZ Tv",
+      "n": "CN City",
       "e": "activo",
       "g": "Animacion",
-      "l": "https://i.imgur.com/Lxccclx.png",
-      "s1": "https://playback.livepeer.studio/hls/132ekew5u1m403gy/index.m3u8?tkn=XajD8CdOgr7uqtCKZyKHcJ",
+      "l": "https://cncity.live/assets/logo.png",
+      "s1": "https://envivo.cncity.live/hls/envivo.m3u8",
       "c": "Anime"
     },
     {
@@ -343,6 +343,14 @@
       "g": "Animacion",
       "l": "https://i.imgur.com/lrYLU4H.png",
       "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8",
+      "c": "Anime"
+    },
+    {
+      "n": "Laika españa",
+      "e": "activo",
+      "g": "Animacion",
+      "l": "https://i.ibb.co/nqkqsK8Y/Letras-de-Laika-Channel-Espa-a.png",
+      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
       "c": "Anime"
     },
     {

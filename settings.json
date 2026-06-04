@@ -362,11 +362,27 @@
       "c": "Anime"
     },
     {
-      "n": "memorias tv",
+      "n": "memorias toons",
       "e": "activo",
       "g": "Animacion",
       "l": "https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png",
       "s1": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
+      "c": "Retro"
+    },
+    {
+      "n": "memorias film",
+      "e": "activo",
+      "g": "Animacion",
+      "l": "https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-FILM-png--300x168.png",
+      "s1": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
+      "c": "Retro"
+    },
+    {
+      "n": "memorias series",
+      "e": "activo",
+      "g": "Animacion",
+      "l": "https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png",
+      "s1": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
       "c": "Retro"
     },
     {

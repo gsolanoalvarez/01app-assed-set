@@ -362,6 +362,14 @@
       "c": "Anime"
     },
     {
+      "n": "Energeek",
+      "e": "activo",
+      "g": "Animacion",
+      "l": "https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png",
+      "s1": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025",
+      "c": "Anime"
+    },
+    {
       "n": "memorias toons",
       "e": "activo",
       "g": "Animacion",
@@ -464,6 +472,14 @@
       "l": "https://i.imgur.com/7hzRkcs.png",
       "s1": "https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8",
       "c": "Retro"
+    },
+    {
+      "n": "tingueritos tv",
+      "e": "activo",
+      "g": "Retro, aventura, diverso",
+      "l": "https://i.imgur.com/z5hiZ7x.png",
+      "s1": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w830698537.m3u8",
+      "c": "Variado"
     },
     {
       "n": "Gam tv",

@@ -193,6 +193,14 @@
       "s1": "http://45.181.122.46:8090/play/a00t",
       "c": "Anime"
     },
+     {
+      "n": "Max Anime",
+      "e": "activo",
+      "g": "Animacion",
+      "l": "https://i.imgur.com/Jonz85O.png",
+      "s1": "https://cdnlive.klicgo.net/maxanime/live/chunklist_w1999525815_DVR.m3u8",
+      "c": "Anime"
+    },
     {
       "n": "AnimeXTV",
       "e": "activo",
@@ -242,6 +250,14 @@
       "c": "Anime"
     },
     {
+      "n": "Goku tv",
+      "e": "activo",
+      "g": "Animacion",
+      "l": "https://i.imgur.com/KtioMXW.png",
+      "s1": "https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
+      "c": "Anime"
+    },
+    {
       "n": "Anime Vision",
       "e": "activo",
       "g": "Animacion",
@@ -282,27 +298,11 @@
       "c": "Anime"
     },
     {
-      "n": "Goku tv",
-      "e": "activo",
-      "g": "Animacion",
-      "l": "https://i.imgur.com/KtioMXW.png",
-      "s1": "https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
-      "c": "Anime"
-    },
-    {
       "n": "Zyoon TV",
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/kcR0Q5U.png",
       "s1": "https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8",
-      "c": "Anime"
-    },
-    {
-      "n": "Max Anime",
-      "e": "activo",
-      "g": "Animacion",
-      "l": "https://i.imgur.com/FRrCEgO.png",
-      "s1": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8",
       "c": "Anime"
     },
     {
@@ -461,7 +461,7 @@
       "n": "Retro x plus",
       "e": "activo",
       "g": "Retro, aventura, diverso",
-      "l": "https://i.imgur.com/z5hiZ7x.png",
+      "l": "https://i.imgur.com/UDaLiOh.png",
       "s1": "https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8?lb_backend_hint=6",
       "c": "Retro"
     },

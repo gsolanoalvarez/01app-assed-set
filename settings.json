@@ -183,6 +183,22 @@
       "c": "Peliculas"
     },
     {
+      "n": "Max2",
+      "e": "activo",
+      "g": "Retro, aventura, diverso",
+      "l": "https://i.imgur.com/68WXS92.png",
+      "s1": "https://lbgo.bozztv.com/ssh101/ssh101/max16/chunks.m3u8",
+      "c": "Peliculas"
+    },
+    {
+      "n": "Gam tv",
+      "e": "activo",
+      "g": "Retro, aventura, diverso",
+      "l": "https://i.imgur.com/AGsXASp.png",
+      "s1": "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8",
+      "c": "Variado"
+    },
+    {
       "n": "Anima kids",
       "e": "activo",
       "g": "Animacion",
@@ -334,7 +350,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/JUz4bCj.png",
-      "s1": "https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8",
+      "s1": "https://lbgo.bozztv.com/ssh101/ssh101/gokupelis/chunks.m3u8",
       "c": "Anime"
     },
     {
@@ -538,27 +554,11 @@
       "c": "Retro"
     },
     {
-      "n": "Gam tv",
-      "e": "activo",
-      "g": "Retro, aventura, diverso",
-      "l": "https://i.imgur.com/AGsXASp.png",
-      "s1": "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8",
-      "c": "Variado"
-    },
-    {
       "n": "telelima",
       "e": "activo",
       "g": "Retro, aventura, diverso",
       "l": "https://i.imgur.com/83AWZCO.png",
       "s1": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8?uid=8209793",
-      "c": "Variado"
-    },
-    {
-      "n": "Max2",
-      "e": "activo",
-      "g": "Retro, aventura, diverso",
-      "l": "https://i.imgur.com/68WXS92.png",
-      "s1": "https://lbgo.bozztv.com/ssh101/ssh101/max16/chunks.m3u8",
       "c": "Variado"
     },
     {

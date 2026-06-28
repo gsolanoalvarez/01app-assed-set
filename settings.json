@@ -196,7 +196,7 @@
       "g": "Retro, aventura, diverso",
       "l": "https://i.imgur.com/AGsXASp.png",
       "s1": "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8",
-      "c": "Variado"
+      "c": "Peliculas"
     },
     {
       "n": "Anima kids",
@@ -205,7 +205,6 @@
       "l": "https://i.imgur.com/HFO4lOU.png",
       "s1": "https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=8209793",
       "c": "Anime",
-      "li": 1
     },
     {
       "n": "Primired",

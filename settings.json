@@ -486,7 +486,7 @@
       "e": "activo",
       "g": "Retro, terror",
       "l": "https://www.vivalivetv.com/public/files/shows/0/1/3634-294x165-FFFFFF.jpg",
-      "s1": "https://stream-us-east-1.getpublica.com/cl/260626d8vg273tg0is73f92800/1920x1080_2562007_0_f.m3u8?i=1187_12966",
+      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210370/tracks-v1a1/mono.ts.m3u8",
       "c": "Retro"
     },
     {
@@ -551,6 +551,14 @@
       "g": "Retro, aventura",
       "l": "https://i.imgur.com/7hzRkcs.png",
       "s1": "https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8",
+      "c": "Retro"
+    },
+    {
+      "n": "LMS",
+      "e": "activo",
+      "g": "Retro, aventura",
+      "l": "https://i.imgur.com/RUuoMlL.png",
+      "s1": "https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8",
       "c": "Retro"
     },
     {

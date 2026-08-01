@@ -310,7 +310,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/N0ltIsI.png",
-      "s1": "https://daiconnect.com/live/hls/tvup/tvfy-animevision/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8",
+      "s1": "https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/chunks.m3u8?lb_backend_hint=7",
       "c": "Anime"
     },
     {
@@ -318,7 +318,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/IlZwuet.png",
-      "s1": "https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8",
+      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8",
       "c": "Anime"
     },
     {
@@ -326,7 +326,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/CXSTHmm.png",
-      "s1": "https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8",
+      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-211111/tracks-v1a1/mono.ts.m3u8",
       "c": "Anime"
     },
     {
@@ -390,7 +390,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/9l6N1wr.png",
-      "s1": "https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8",
+      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8",
       "c": "Anime"
     },
     {

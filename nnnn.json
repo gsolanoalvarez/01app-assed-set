@@ -4,7 +4,7 @@
     {
       "id": 1,
       "nombre": "Star Channel",
-      "iframe": "<iframe src="https://embed.ksdjugfsddeports.com/embed2/starchannel.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>"
+      "iframe": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/starchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
     },
     {
       "id": 2,

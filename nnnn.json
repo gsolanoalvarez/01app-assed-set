@@ -2,85 +2,247 @@
   "version": "1.0",
   "canales": [
     {
-      "id": 1,
-      "nombre": "AMC",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/amc.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/amc.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='amc';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 3,
-      "nombre": "ANIMAL PLANET",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/animalplanet.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/animalplanet.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='animalplanet';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "AXN",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/axn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/axn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='axn';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 5,
-      "nombre": "CARTOON NETWORK",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/cartoonnetwork.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/cartoonnetwork.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='cartoonnetwork';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 6,
-      "nombre": "CINECANAL",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/cinecanal.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/cinecanal.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='cinecanal';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 7,
-      "nombre": "CINEMAX",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/cinemax.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/cinemax.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='cinemax';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 8,
-      "nombre": "DISCOVERY CHANNEL",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/discoverychannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/discoverychannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='discoverychannel';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 9,
-      "nombre": "ID",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/idinvestigation.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/idinvestigation.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='idinvestigation';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    },
-    {
-      "id": 10,
-      "nombre": "DISCOVERY KIDS",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed2/discoverykids.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdasregions.fun/embed/discoverykids.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type='text/javascript'>width='100%';height='100%';id='discoverykids';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
-      ]
-    }
-  ]
+    "id": 1,
+    "nombre": "AMC",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/amc.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/amc.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='amc';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "ANIMAL PLANET",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/animalplanet.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/animalplanet.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='animalplanet';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "AXN",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/axn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/axn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='axn';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "CARTOON NETWORK",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/cartoonnetwork.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/cartoonnetwork.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='cartoonnetwork';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "CINECANAL",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/cinecanal.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/cinecanal.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='cinecanal';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "CINEMAX",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/cinemax.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/cinemax.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='cinemax';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+{
+    "id": 8,
+    "nombre": "DISCOVERY CHANNEL",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/discoverychannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/discoverychannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='discoverychannel';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "ID",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/idinvestigation.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/idinvestigation.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='idinvestigation';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "DISNEY CHANNEL",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/disneychannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/disneychannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='disneychannel';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Distrito Comedia",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/distritocomedia.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/distritocomedia.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='distritocomedia';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed.js\"></script>"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "FX",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/fx.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/fx.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='fx';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "GOLDEN PREMIER",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/goldenpremier.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/goldenpremier.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='goldenpremier';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "GOLDEN EDGE",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/goldenedge.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/goldenedge.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='goldenedge';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "HISTORY",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/history.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/history.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='history';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+{
+    "id": 16,
+    "nombre": "HISTORY 2",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/history2.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/history2.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='history2';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "NAT GEO",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/natgeo.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/natgeo.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='natgeo';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "CANAL SONY",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/canalsony.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/canalsony.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='canalsony';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "SPACE",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/space.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/space.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='space';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "STAR CHANNEL",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/starchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/starchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='starchannel';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "STUDIO UNIVERSAL",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/studiouniversal.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/studiouniversal.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='studiouniversal';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "TLNOVELAS",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/tlnovelas.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/tlnovelas.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='tlnovelas';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "TNT",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/tnt.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/tnt.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='tnt';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+{
+    "id": 24,
+    "nombre": "TNT SERIE",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/tntseries.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/tntseries.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='tntseries';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "TOONCAST",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/tooncast.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/tooncast.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='tooncast';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "UNIVERSAL TV",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/universaltv.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/universaltv.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='universaltv';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "UNIVISION",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/univision.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/univision.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='univision';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "WARNER",
+    "iframes": [
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed2/warnerchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<iframe src=\"https://embed.saohgdasregions.fun/embed/warnerchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+      "<script type=\"text/javascript\">width='100%', height='100%', id='warnerchannel';</script><script type=\"text/javascript\" src=\"https://embed.saohgdasregions.fun/embed2.js\"></script>"
+    ]
+  }
+ ]
 }

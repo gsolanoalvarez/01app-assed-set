@@ -3,13 +3,90 @@
   "canales": [
     {
       "id": 1,
-      "nombre": "Star Channel",
-      "iframe": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/starchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+      "nombre": "AMC",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/amc.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/amc.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='amc';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'</script>"
+      ]
     },
     {
-      "id": 2,
-      "nombre": "Cinecanal",
-      "iframe": "<iframe src=\"https://embed.ksdjugfsddeports.com/embed2/cinecanal.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+      "id": 3,
+      "nombre": "ANIMAL PLANET",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/animalplanet.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/animalplanet.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='animalplanet';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
+    },
+{
+      "id": 4,
+      "nombre": "AXN",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/axn.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/axn.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='axn';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
+    },
+
+{
+      "id": 5,
+      "nombre": "CARTOON NETWORK",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/cartoonnetwork.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/cartoonnetwork.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='cartoonnetwork';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
+    },
+
+{
+      "id": 6,
+      "nombre": "CINECANAL",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/cinecanal.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/cinecanal.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='cinecanal';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
+    },
+
+{
+      "id": 7,
+      "nombre": "CINEMAX",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/cinemax.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/cinemax.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='cinemax';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
+    },
+
+{
+      "id": 8,
+      "nombre": "DISCOVERY CHANNEL",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/discoverychannel.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/discoverychannel.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='discoverychannel';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
+    },
+
+{
+      "id": 9,
+      "nombre": "ID",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/idinvestigation.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/idinvestigation.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='idinvestigation';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
+    },
+
+{
+      "id": 10,
+      "nombre": "DISCOVERY KIDS",
+      "iframes": [
+        "<iframe src="https://embed.saohgdasregions.fun/embed2/disneychannel.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<iframe src="https://embed.saohgdasregions.fun/embed/disneychannel.php" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
+        "<script type='text/javascript'> width='100%', height='100%', id='disneychannel';</script><script type='text/javascript' src='https://embed.saohgdasregions.fun/embed.js'></script>"
+      ]
     }
   ]
 }

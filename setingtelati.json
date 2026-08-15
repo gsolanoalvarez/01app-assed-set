@@ -1,0 +1,613 @@
+[
+    {
+        "slug": "los-simpson-247",
+        "nombre": "Los Simpson 24/7",
+        "descripcion": "Transmisiones en vivo de Los Simpson 24/7",
+        "categoria": "Mas vistos",
+        "logo": "http://i.tvcluboficial.com/lossimpsons.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6"
+            }
+        ]
+    },
+   {
+        "slug": "el-chavo-del-8-hd",
+        "nombre": "El chavo del 8 HD",
+        "descripcion": "Transmisiones en vivo de El chavo del 8 HD",
+        "categoria": "Mas vistos",
+        "logo": "http://i.tvcluboficial.com/elchavodel8.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8"
+            }
+        ]
+    },
+        {
+        "slug": "distrito-comedia",
+        "nombre": "Distrito Comedia",
+        "descripcion": "Transmisiones en vivo de Distrito Comedia",
+        "categoria": "Mas vistos",
+        "logo": "http://i.tvcluboficial.com/distritocomedia.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01z"
+            }
+        ]
+    },
+    {
+        "slug": "canal-de-las-estrellas-hd",
+        "nombre": "Canal de las Estrellas HD",
+        "descripcion": "Transmisiones en vivo de Canal de las Estrellas HD",
+        "categoria": "Mas vistos",
+        "logo": "http://i.tvcluboficial.com/mx_lasestrellas.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8"
+            }
+        ]
+    },
+         {
+        "slug": "hbo-hd",
+        "nombre": "HBO HD",
+        "descripcion": "Transmisiones en vivo de HBO HD",
+        "categoria": "Mas vistos",
+        "logo": "http://i.tvcluboficial.com/hbo.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a029"
+            }
+        ]
+    },
+           {
+        "slug": "tnt-hd",
+        "nombre": "TNT HD",
+        "descripcion": "Transmisiones en vivo de TNT HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/tnt.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01s"
+            }
+        ]
+    },
+        {
+        "slug": "dragon-ball-z-247",
+        "nombre": "Dragon Ball Z 24/7",
+        "descripcion": "Transmisiones en vivo de Dragon Ball Z 24/7",
+        "categoria": "24/7",
+        "logo": "http://i.tvcluboficial.com/dragonballz.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8"
+            }
+        ]
+    },
+    {
+        "slug": "el-chavo-del-8-247",
+        "nombre": "El Chavo del 8 24/7",
+        "descripcion": "Transmisiones en vivo de El Chavo del 8 24/7",
+        "categoria": "24/7",
+        "logo": "http://i.tvcluboficial.com/elchavodel8.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8"
+            }
+        ]
+    },
+        {
+        "slug": "space-hd",
+        "nombre": "Space HD",
+        "descripcion": "Transmisiones en vivo de Space HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/space.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00h"
+            }
+        ]
+    },
+        {
+        "slug": "discovery-hh-hd",
+        "nombre": "Discovery H&H HD",
+        "descripcion": "Transmisiones en vivo de Discovery H&H HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/discoveryhh.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://embedxtream.com/stream.php/stream/258"
+            }
+        ]
+    },
+    {
+        "slug": "space",
+        "nombre": "Space",
+        "descripcion": "Transmisiones en vivo de Space",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/space.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00h"
+            }
+        ]
+    },
+  {
+        "slug": "dragon-ball-super-247",
+        "nombre": "Dragon Ball Super 24/7",
+        "descripcion": "Transmisiones en vivo de Dragon Ball Super 24/7",
+        "categoria": "24/7",
+        "logo": "http://i.tvcluboficial.com/dragonballsuper.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8"
+            }
+        ]
+    },
+    {
+        "slug": "universal-hd",
+        "nombre": "Universal HD",
+        "descripcion": "Transmisiones en vivo de Universal HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/universal.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01h"
+            }
+        ]
+    },
+    {
+        "slug": "history-channel-hd",
+        "nombre": "History Channel HD",
+        "descripcion": "Transmisiones en vivo de History Channel HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/history.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00c"
+            }
+        ]
+    },
+        {
+        "slug": "axn-hd",
+        "nombre": "AXN HD",
+        "descripcion": "Transmisiones en vivo de AXN HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/axn.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00g"
+            }
+        ]
+    },
+    {
+        "slug": "hbo-family",
+        "nombre": "HBO Family",
+        "descripcion": "Transmisiones en vivo de HBO Family",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/hbofamily.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a017"
+            }
+        ]
+    },
+        {
+        "slug": "history-channel",
+        "nombre": "History Channel",
+        "descripcion": "Transmisiones en vivo de History Channel",
+        "categoria": "Cultura",
+        "logo": "http://i.tvcluboficial.com/history.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00c"
+            }
+        ]
+    },
+        {
+        "slug": "tnt-series",
+        "nombre": "TNT Series",
+        "descripcion": "Transmisiones en vivo de TNT Series",
+        "categoria": "Entretenimiento",
+        "logo": "http://i.tvcluboficial.com/tntseries.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01k"
+            }
+        ]
+    },
+          {
+        "slug": "tnt",
+        "nombre": "TNT",
+        "descripcion": "Transmisiones en vivo de TNT",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/tnt.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01s"
+            }
+        ]
+    },
+    {
+        "slug": "investigation-discovery-hd",
+        "nombre": "Investigation Discovery HD",
+        "descripcion": "Transmisiones en vivo de Investigation Discovery HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/investigationdiscovery.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a020"
+            }
+        ]
+    },
+    {
+        "slug": "universal-channel",
+        "nombre": "Universal Channel",
+        "descripcion": "Transmisiones en vivo de Universal Channel",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/universal.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01h"
+            }
+        ]
+    },
+    {
+        "slug": "axn",
+        "nombre": "AXN",
+        "descripcion": "Transmisiones en vivo de AXN",
+        "categoria": "Entretenimiento",
+        "logo": "http://i.tvcluboficial.com/axn.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00g"
+            }
+        ]
+    },
+    {
+        "slug": "cinecanal",
+        "nombre": "Cinecanal",
+        "descripcion": "Transmisiones en vivo de Cinecanal",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/cinecanal.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a026"
+            }
+        ]
+    },
+       {
+        "slug": "golden",
+        "nombre": "Golden",
+        "descripcion": "Transmisiones en vivo de Golden",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/golden.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a019"
+            }
+        ]
+    },
+    {
+        "slug": "animal-planet-hd",
+        "nombre": "Animal Planet HD",
+        "descripcion": "Transmisiones en vivo de Animal Planet HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/animalplanet.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a02f"
+            }
+        ]
+    },
+        {
+        "slug": "hbo-xtreme",
+        "nombre": "HBO Xtreme",
+        "descripcion": "Transmisiones en vivo de HBO Xtreme",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/hboxtreme.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a018"
+            }
+        ]
+    },
+    {
+        "slug": "ae",
+        "nombre": "A&E",
+        "descripcion": "Transmisiones en vivo de A&E",
+        "categoria": "Entretenimiento",
+        "logo": "http://i.tvcluboficial.com/ae.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00d"
+            }
+        ]
+    },
+     {
+        "slug": "tnt-series-hd",
+        "nombre": "TNT Series HD",
+        "descripcion": "Transmisiones en vivo de TNT Series HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/tntseries.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01k"
+            }
+        ]
+    },
+    {
+        "slug": "el-gourmet",
+        "nombre": "El Gourmet",
+        "descripcion": "Transmisiones en vivo de El Gourmet",
+        "categoria": "Entretenimiento",
+        "logo": "http://i.tvcluboficial.com/elgourmet.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a021"
+            }
+        ]
+    },
+        {
+        "slug": "hbo-family-hd",
+        "nombre": "HBO Family HD",
+        "descripcion": "Transmisiones en vivo de HBO Family HD",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/hbofamily.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a017"
+            }
+        ]
+    },
+        {
+        "slug": "warner-channel",
+        "nombre": "Warner Channel",
+        "descripcion": "Transmisiones en vivo de Warner Channel",
+        "categoria": "Entretenimiento",
+        "logo": "http://i.tvcluboficial.com/warnerchannel.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00f"
+            }
+        ]
+    },
+        {
+        "slug": "animal-planet",
+        "nombre": "Animal Planet",
+        "descripcion": "Transmisiones en vivo de Animal Planet",
+        "categoria": "Cultura",
+        "logo": "http://i.tvcluboficial.com/animalplanet.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a02f"
+            }
+        ]
+    },
+        {
+        "slug": "nat-geo-hd",
+        "nombre": "Nat Geo HD",
+        "descripcion": "Transmisiones en vivo de Nat Geo HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/natgeo.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a024"
+            }
+        ]
+    },
+       {
+        "slug": "discovery-channel-hd",
+        "nombre": "Discovery Channel HD",
+        "descripcion": "Transmisiones en vivo de Discovery Channel HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/discoverychannel.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a014"
+            }
+        ]
+    },
+        {
+        "slug": "discovery-hh",
+        "nombre": "Discovery H&H",
+        "descripcion": "Transmisiones en vivo de Discovery H&H",
+        "categoria": "Cultura",
+        "logo": "http://i.tvcluboficial.com/discoveryhh.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01f"
+            }
+        ]
+    },
+        {
+        "slug": "nat-geo",
+        "nombre": "Nat Geo",
+        "descripcion": "Transmisiones en vivo de Nat Geo",
+        "categoria": "Cultura",
+        "logo": "http://i.tvcluboficial.com/natgeo.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a024"
+            }
+        ]
+    },
+        {
+        "slug": "golden-hd",
+        "nombre": "Golden HD",
+        "descripcion": "Transmisiones en vivo de Golden HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/golden.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a019"
+            }
+        ]
+    },
+        {
+        "slug": "amc-hd",
+        "nombre": "AMC HD",
+        "descripcion": "Transmisiones en vivo de AMC HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/amc.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a027"
+            }
+        ]
+    },
+    {
+        "slug": "ae-hd",
+        "nombre": "A&E HD",
+        "descripcion": "Transmisiones en vivo de A&E HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/ae.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00d"
+            }
+        ]
+    },
+        {
+        "slug": "cinecanal-hd",
+        "nombre": "Cinecanal HD",
+        "descripcion": "Transmisiones en vivo de Cinecanal HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/cinecanal.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a026"
+            }
+        ]
+    },
+       {
+        "slug": "fx",
+        "nombre": "FX",
+        "descripcion": "Transmisiones en vivo de FX",
+        "categoria": "Entretenimiento",
+        "logo": "http://i.tvcluboficial.com/fx.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01l"
+            }
+        ]
+    },
+            {
+        "slug": "amc",
+        "nombre": "AMC",
+        "descripcion": "Transmisiones en vivo de AMC",
+        "categoria": "Entretenimiento",
+        "logo": "http://i.tvcluboficial.com/amc.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a027"
+            }
+        ]
+    },
+        {
+        "slug": "warner-channel-hd",
+        "nombre": "Warner Channel HD",
+        "descripcion": "Transmisiones en vivo de Warner Channel HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/warnerchannel.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00f"
+            }
+        ]
+    },
+          {
+        "slug": "fx-hd",
+        "nombre": "FX HD",
+        "descripcion": "Transmisiones en vivo de FX HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/fx.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a01l"
+            }
+        ]
+    },
+         {
+        "slug": "hbo",
+        "nombre": "HBO",
+        "descripcion": "Transmisiones en vivo de HBO",
+        "categoria": "Peliculas",
+        "logo": "http://i.tvcluboficial.com/hbo.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a029"
+            }
+        ]
+    },
+        {
+        "slug": "locomotion",
+        "nombre": "Locomotion",
+        "descripcion": "Transmisiones en vivo de Locomotion",
+        "categoria": "24/7",
+        "logo": "http://i.tvcluboficial.com/locomotion.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8"
+            }
+        ]
+    },
+         {
+        "slug": "sony-hd",
+        "nombre": "Sony HD",
+        "descripcion": "Transmisiones en vivo de Sony HD",
+        "categoria": "HD",
+        "logo": "http://i.tvcluboficial.com/sony.png",
+        "streams": [
+            {
+                "nombre": "Principal",
+                "player": "http://45.181.122.46:8090/play/a00e"
+            }
+        ]
+    }
+]

@@ -123,7 +123,7 @@
       "e": "activo",
       "g": "diverso",
       "l": "https://i.imgur.com/UkmTvCz.png",
-      "s1": "https://lbgo.bozztv.com/ssh101/ssh101/prtv06dvpme/chunks.m3u8",
+      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8",
       "c": "Peliculas"
     },
     {
@@ -180,22 +180,6 @@
       "g": "diverso",
       "l": "https://i.imgur.com/FGCRer9.png",
       "s1": "https://lbgo.bozztv.com/ssh101/ssh101/totaltvhd/chunks.m3u8",
-      "c": "Peliculas"
-    },
-    {
-      "n": "punto tv",
-      "e": "activo",
-      "g": "diverso",
-      "l": "https://i.imgur.com/TvqlV1k.png",
-      "s1": "https://lbgo.bozztv.com/ssh101/ssh101/tv2024/chunks.m3u8",
-      "c": "Peliculas"
-    },
-    {
-      "n": "Max2",
-      "e": "activo",
-      "g": "Retro, aventura, diverso",
-      "l": "https://i.imgur.com/68WXS92.png",
-      "s1": "https://lbgo.bozztv.com/ssh101/ssh101/max16/chunks.m3u8",
       "c": "Peliculas"
     },
     {
@@ -326,7 +310,7 @@
       "e": "activo",
       "g": "Animacion",
       "l": "https://i.imgur.com/CXSTHmm.png",
-      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-211111/tracks-v1a1/mono.ts.m3u8",
+      "s1": "https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8",
       "c": "Anime"
     },
     {
@@ -383,14 +367,6 @@
       "g": "Animacion",
       "l": "https://i.imgur.com/Mfpgx13.png",
       "s1": "https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
-      "c": "Anime"
-    },
-    {
-      "n": "Dreiko TV",
-      "e": "activo",
-      "g": "Animacion",
-      "l": "https://i.imgur.com/9l6N1wr.png",
-      "s1": "https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8",
       "c": "Anime"
     },
     {
@@ -474,12 +450,12 @@
       "c": "Retro"
     },
     {
-      "n": "Teleclasica",
+      "n": "DM kids",
       "e": "activo",
-      "g": "Retro, aventura",
-      "l": "https://i.imgur.com/yELGuZE.png",
-      "s1": "https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8?hls_ctx=1a23047n",
-      "c": "Retro"
+      "g": "Animacion",
+      "l": "https://i.imgur.com/4tho7PD.png",
+      "s1": "https://stream-us-east-1.getpublica.com/cl/260815d9vs111v79as73cj76l0/1920x1080_2550639_0_f.m3u8?i=1187_12967",
+      "c": "Anime"
     },
     {
       "n": "bombi tv",

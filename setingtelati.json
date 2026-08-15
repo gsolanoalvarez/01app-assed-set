@@ -125,7 +125,7 @@
         "streams": [
             {
                 "nombre": "Principal",
-                "player": "https://embedxtream.com/stream.php/stream/258"
+                "player": "http://45.181.122.46:8090/play/a01f"
             }
         ]
     },

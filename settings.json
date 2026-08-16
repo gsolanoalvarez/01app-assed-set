@@ -370,6 +370,14 @@
       "c": "Anime"
     },
     {
+      "n": "dreikotv",
+      "e": "activo",
+      "g": "Animacion",
+      "l": "https://i.imgur.com/N9XTG57.png",
+      "s1": "https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8",
+      "c": "Anime"
+    },
+    {
       "n": "CN City",
       "e": "activo",
       "g": "Animacion",

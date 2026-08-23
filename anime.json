@@ -1,0 +1,213 @@
+{
+  "id": 201,
+  "titulo": "One Piece - anime One Piece online JkAnime",
+  "poster": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg",
+  "sinopsis": "Una historia épica de piratas, donde narra la historia de \"Monkey D. Luffy\" quien cuando tenia 7 años, comió accidentalmente una \"Akuma no mi\"(Fruta del diablo) la cual le convirtió en un hombre de goma. Por otra parte \"Gol D. Roger\" conocido como \"El rey de los Piratas\" quien fuera ejecutado por la Marine, habló antes de morir, acerca de su mayor tesoro,el \"One Piece\" escondido en la \"Gran line\". Esta noticia desató la gran era de los piratas lanzando a incontables piratas a ese lugar, en busca del \"One Piece\" el tesoro perdido. Diez años después, Luffy inspirado en \"Gol D. Roger\" y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo \"Rey de los Piratas\" y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el \"One Piece\".",
+  "generos": [
+    "Accion",
+    "Aventura",
+    "Comedia",
+    "Fantasia",
+    "Shounen",
+    "Super Poderes"
+  ],
+  "studio": null,
+  "tipo": "Serie",
+  "estado": "En emision",
+  "temporadas": [],
+  "episodios": 0,
+  "idiomas": [],
+  "calidad": [
+    "2160p"
+  ],
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Episodio 1 - One Piece",
+      "url": "https://jkanime.net/one-piece/1/",
+      "servidores": [
+        {
+          "id": 0,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=N1BJbVE1ZWRNd1hJRFoySEF4SFZKYUVERXViS1FrTWw4Q1pNU0NKbGNwVHBhaEVMMmVXNXJMU3psMWZsR2FHSjo6lu7AMCTawUY6c00pH1053Q--&t=c457d7ae48d08a6b84bc0b1b9bd7d474&op=NDk4OQ==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=N1BJbVE1ZWRNd1hJRFoySEF4SFZKYUVERXViS1FrTWw4Q1pNU0NKbGNwVHBhaEVMMmVXNXJMU3psMWZsR2FHSjo6lu7AMCTawUY6c00pH1053Q--&t=c457d7ae48d08a6b84bc0b1b9bd7d474&op=NDk4OQ==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 1,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=SjArekZvNXM1NU8vNHZtMnY4Q2NxL1NYelJEL1hMaXpqdGt6VVlpMTdFK2t0Rkxnc01hQmZaTE93dGJtS2N1Tjo6dsFa1hGe1TYCJTCqBvMkzg--&t=c457d7ae48d08a6b84bc0b1b9bd7d474",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=SjArekZvNXM1NU8vNHZtMnY4Q2NxL1NYelJEL1hMaXpqdGt6VVlpMTdFK2t0Rkxnc01hQmZaTE93dGJtS2N1Tjo6dsFa1hGe1TYCJTCqBvMkzg--&t=c457d7ae48d08a6b84bc0b1b9bd7d474\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 2,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=aHVNVURNZFR1c3cyMSt5TkMrRDQ0NUtNWHhIZzFBTWxyQUEwbVhPT1FnKzV1VERUeTJSRDM5bHhldm9MeG1QNDo6vKeK2AtBSGacu91BBxMSFg--&t=c457d7ae48d08a6b84bc0b1b9bd7d474&op=NDk4OQ==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=aHVNVURNZFR1c3cyMSt5TkMrRDQ0NUtNWHhIZzFBTWxyQUEwbVhPT1FnKzV1VERUeTJSRDM5bHhldm9MeG1QNDo6vKeK2AtBSGacu91BBxMSFg--&t=c457d7ae48d08a6b84bc0b1b9bd7d474&op=NDk4OQ==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 3,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=NVo3NGFDdEk5NTRIYVhVT0xTK29hL1RvZm9jRUZnNjBBMjlBUUVieThGU1RycGt4V3JiQzlFbnV6aUpPYlMyTTo6scYCEEOSUT1SEEUcZI52pA--&t=c457d7ae48d08a6b84bc0b1b9bd7d474",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=NVo3NGFDdEk5NTRIYVhVT0xTK29hL1RvZm9jRUZnNjBBMjlBUUVieThGU1RycGt4V3JiQzlFbnV6aUpPYlMyTTo6scYCEEOSUT1SEEUcZI52pA--&t=c457d7ae48d08a6b84bc0b1b9bd7d474\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 4,
+          "nombre": "Desuka",
+          "iframe": "https://jkanime.net/jkplayer/jk?u=stream/jkmedia/c457d7ae48d08a6b84bc0b1b9bd7d474/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/jk?u=stream/jkmedia/c457d7ae48d08a6b84bc0b1b9bd7d474/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Episodio 2 - One Piece",
+      "url": "https://jkanime.net/one-piece/2/",
+      "servidores": [
+        {
+          "id": 0,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=NklwT2h5SjhQTDNzU3FNRy8zWDVUdDd1cUtEVzhhVjROZ0tpSk5NWXJremREME1zUEpKSGg0ZnhDbTBPZTFGUzo6PzVoIT9NLQQKiwGtseCj5A--&t=1f8fe28e9283d7b5300af087a298f200&op=NDk5MA==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=NklwT2h5SjhQTDNzU3FNRy8zWDVUdDd1cUtEVzhhVjROZ0tpSk5NWXJremREME1zUEpKSGg0ZnhDbTBPZTFGUzo6PzVoIT9NLQQKiwGtseCj5A--&t=1f8fe28e9283d7b5300af087a298f200&op=NDk5MA==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 1,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=NEpMSUp2QU0vQ0xVT0d0VWpPSWI4TzUzck8wN3lmckNyVTB2YnJSUUg0LzNMODJBdWo5ZUJlMkUxZ21sRmpyNzo6fXBPfredUV8XHs_IzbQh_A--&t=1f8fe28e9283d7b5300af087a298f200",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=NEpMSUp2QU0vQ0xVT0d0VWpPSWI4TzUzck8wN3lmckNyVTB2YnJSUUg0LzNMODJBdWo5ZUJlMkUxZ21sRmpyNzo6fXBPfredUV8XHs_IzbQh_A--&t=1f8fe28e9283d7b5300af087a298f200\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 2,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=R2N4K1JzblhtVVBJVTltRmFZais5VCtEZDFycGVTRjcwNnNzcnlsREJmZ3gwRmdlVnJ3Qms4UmVMcnNOMWtCeDo6m5x9OJb2QyLcijtlaejVPQ--&t=1f8fe28e9283d7b5300af087a298f200&op=NDk5MA==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=R2N4K1JzblhtVVBJVTltRmFZais5VCtEZDFycGVTRjcwNnNzcnlsREJmZ3gwRmdlVnJ3Qms4UmVMcnNOMWtCeDo6m5x9OJb2QyLcijtlaejVPQ--&t=1f8fe28e9283d7b5300af087a298f200&op=NDk5MA==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 3,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=dXBqTUZCbmE4OUgxN0ZIUXdYMlpRTkZTZzg4MzluWk1xTUxtblZKeGlHKzdBWDlFWmc2SkwzT09HTVE2YjE2eTo6YKSL7CA3PFr.kwofRqLxgA--&t=1f8fe28e9283d7b5300af087a298f200",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=dXBqTUZCbmE4OUgxN0ZIUXdYMlpRTkZTZzg4MzluWk1xTUxtblZKeGlHKzdBWDlFWmc2SkwzT09HTVE2YjE2eTo6YKSL7CA3PFr.kwofRqLxgA--&t=1f8fe28e9283d7b5300af087a298f200\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 4,
+          "nombre": "Desuka",
+          "iframe": "https://jkanime.net/jkplayer/jk?u=stream/jkmedia/1f8fe28e9283d7b5300af087a298f200/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/jk?u=stream/jkmedia/1f8fe28e9283d7b5300af087a298f200/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Episodio 3 - One Piece",
+      "url": "https://jkanime.net/one-piece/3/",
+      "servidores": [
+        {
+          "id": 0,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=ZGxNZVdOUk0vODlodDBKM1BZbWtRWERhLzN1Q0VaUjN4a1ZvOWgwZW15UlREd2Nhc2Ztd2tNRDhwNzNkbkk0VDo679u4ci88s6kpSe5ZfiF7yw--&t=d4b5b5c16df28e61124e13181db7774c&op=NDk5MQ==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=ZGxNZVdOUk0vODlodDBKM1BZbWtRWERhLzN1Q0VaUjN4a1ZvOWgwZW15UlREd2Nhc2Ztd2tNRDhwNzNkbkk0VDo679u4ci88s6kpSe5ZfiF7yw--&t=d4b5b5c16df28e61124e13181db7774c&op=NDk5MQ==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 1,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=Z0pjc3FlT1NlVlM0YXlkZDZSOGdIMDhGdnlYUzd4Y2FWZzdid0JUTE8zelVETi9iTFhRSXBib3B6OUxqT0NCNTo6J4jdtWwE0qBrhz8SewgdBw--&t=d4b5b5c16df28e61124e13181db7774c",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=Z0pjc3FlT1NlVlM0YXlkZDZSOGdIMDhGdnlYUzd4Y2FWZzdid0JUTE8zelVETi9iTFhRSXBib3B6OUxqT0NCNTo6J4jdtWwE0qBrhz8SewgdBw--&t=d4b5b5c16df28e61124e13181db7774c\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 2,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=aW55Zm9UdGdVamhIT2VCalZvbHFFeG1DQnFBTlFDa2ExeTd5U0pHR1BvcE9UMkczUlVEYXBweW9KQzUyQjB4Rzo6vOzrnYsvK0r1eOSkU3Be_g--&t=d4b5b5c16df28e61124e13181db7774c&op=NDk5MQ==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=aW55Zm9UdGdVamhIT2VCalZvbHFFeG1DQnFBTlFDa2ExeTd5U0pHR1BvcE9UMkczUlVEYXBweW9KQzUyQjB4Rzo6vOzrnYsvK0r1eOSkU3Be_g--&t=d4b5b5c16df28e61124e13181db7774c&op=NDk5MQ==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 3,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=QjFTc3BzOGZ5elBRT3RXV2YwcEpHREQ2TUt1TFVNUlNtKzZoWFBrUFdqSUlzeENOWk9jZmowMVhHVlVPSmxvSTo61NPswwxe1b6UDTajX6V9TA--&t=d4b5b5c16df28e61124e13181db7774c",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=QjFTc3BzOGZ5elBRT3RXV2YwcEpHREQ2TUt1TFVNUlNtKzZoWFBrUFdqSUlzeENOWk9jZmowMVhHVlVPSmxvSTo61NPswwxe1b6UDTajX6V9TA--&t=d4b5b5c16df28e61124e13181db7774c\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 4,
+          "nombre": "Desuka",
+          "iframe": "https://jkanime.net/jkplayer/jk?u=stream/jkmedia/d4b5b5c16df28e61124e13181db7774c/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/jk?u=stream/jkmedia/d4b5b5c16df28e61124e13181db7774c/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Episodio 4 - One Piece",
+      "url": "https://jkanime.net/one-piece/4/",
+      "servidores": [
+        {
+          "id": 0,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=ZW9MdHhRVmZJUU9IUTA3MEp0amc5WVdMVWRVMk5OeGo3TGdyOXNpYkk0S3MzeEhVM0JVTjIra3hxQ2MzVEpFczo6_3rypTSArVREd6P.RFue.w--&t=290ff0feb094e836744d3e2403d993fd&op=NDk5Mg==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=ZW9MdHhRVmZJUU9IUTA3MEp0amc5WVdMVWRVMk5OeGo3TGdyOXNpYkk0S3MzeEhVM0JVTjIra3hxQ2MzVEpFczo6_3rypTSArVREd6P.RFue.w--&t=290ff0feb094e836744d3e2403d993fd&op=NDk5Mg==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 1,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=bm0vMG9rQVVuQ0RPcU9RbUtqbThpQTM3MGR4TG45K00zVW5FdGNNcGlSM1FlTDJVM3gvRHViSkFpa3VFVGhiajo6Hkq0QKYbtjRbW7VFWxW1qw--&t=290ff0feb094e836744d3e2403d993fd",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=bm0vMG9rQVVuQ0RPcU9RbUtqbThpQTM3MGR4TG45K00zVW5FdGNNcGlSM1FlTDJVM3gvRHViSkFpa3VFVGhiajo6Hkq0QKYbtjRbW7VFWxW1qw--&t=290ff0feb094e836744d3e2403d993fd\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 2,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=c3NScWluMDJvbDNOcXUzSkIxT2wwb3ZYcTZHd1YvNjZMUUpabm1IM2NwMG0vWVZ3eTZ6YzQ4N1p4MzROVC9hQjo6YcJFPgT8DexEk8NCrotlhA--&t=290ff0feb094e836744d3e2403d993fd&op=NDk5Mg==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=c3NScWluMDJvbDNOcXUzSkIxT2wwb3ZYcTZHd1YvNjZMUUpabm1IM2NwMG0vWVZ3eTZ6YzQ4N1p4MzROVC9hQjo6YcJFPgT8DexEk8NCrotlhA--&t=290ff0feb094e836744d3e2403d993fd&op=NDk5Mg==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 3,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=QzBiTU5zVGg2THdMSmQ1TjR2MVFiSkJzZGlZTWw0QXhzN2oxUTM1U091YjNuRlREdnFlSlNpcUZzMWVXaHlsZjo6Qnz1Ej2Oo2ZjS2_lhWzOUg--&t=290ff0feb094e836744d3e2403d993fd",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=QzBiTU5zVGg2THdMSmQ1TjR2MVFiSkJzZGlZTWw0QXhzN2oxUTM1U091YjNuRlREdnFlSlNpcUZzMWVXaHlsZjo6Qnz1Ej2Oo2ZjS2_lhWzOUg--&t=290ff0feb094e836744d3e2403d993fd\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 4,
+          "nombre": "Desuka",
+          "iframe": "https://jkanime.net/jkplayer/jk?u=stream/jkmedia/290ff0feb094e836744d3e2403d993fd/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/jk?u=stream/jkmedia/290ff0feb094e836744d3e2403d993fd/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Episodio 5 - One Piece",
+      "url": "https://jkanime.net/one-piece/5/",
+      "servidores": [
+        {
+          "id": 0,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=RUZ4bU9mUkhldEh0SFhhbFhjWUUxdnlQQi9vWFVJSVlCdkJrNnJlaERrK0lBTnFkVHpWb3B3QWRpbGhzY1l3azo6Wf50BzwTTU2WJAet.C4Qzg--&t=bf40f0ab4e5e63171dd16036913ae828&op=NDk5Mw==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=RUZ4bU9mUkhldEh0SFhhbFhjWUUxdnlQQi9vWFVJSVlCdkJrNnJlaERrK0lBTnFkVHpWb3B3QWRpbGhzY1l3azo6Wf50BzwTTU2WJAet.C4Qzg--&t=bf40f0ab4e5e63171dd16036913ae828&op=NDk5Mw==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 1,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=QVFxWUdLVklGWFdrQ2ZvM3pIdFBKbExTQUovQndkZWRlVVZmUTRSMHh6TnNLak1JbVE5aEdNc3ZYajZZNFZmVDo6LanbJPZO7kw.ET.gmRJ5jg--&t=bf40f0ab4e5e63171dd16036913ae828",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=QVFxWUdLVklGWFdrQ2ZvM3pIdFBKbExTQUovQndkZWRlVVZmUTRSMHh6TnNLak1JbVE5aEdNc3ZYajZZNFZmVDo6LanbJPZO7kw.ET.gmRJ5jg--&t=bf40f0ab4e5e63171dd16036913ae828\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 2,
+          "nombre": "Desu",
+          "iframe": "https://jkanime.net/jkplayer/um?e=TUZWK0hnNndrOThSakorZjNJNURPdTI1bjVSbWs0Q2VNaHh0ZEI5MUVIbDlOU01qSXJyaE1HQ1NTY1dtUUpLczo6eMDiYalhK0YGJzWwrLLg4g--&t=bf40f0ab4e5e63171dd16036913ae828&op=NDk5Mw==",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/um?e=TUZWK0hnNndrOThSakorZjNJNURPdTI1bjVSbWs0Q2VNaHh0ZEI5MUVIbDlOU01qSXJyaE1HQ1NTY1dtUUpLczo6eMDiYalhK0YGJzWwrLLg4g--&t=bf40f0ab4e5e63171dd16036913ae828&op=NDk5Mw==\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 3,
+          "nombre": "Magi",
+          "iframe": "https://jkanime.net/jkplayer/umv?e=QVJtU2ZFenRkb2M0Um1lTENFakJtZHVPNmlHbHVqT04wRU5QRkZicTA0Y2xMREFnbk5PZ3Jqb05jbUdGUGFtRTo6ZITt0G6YQuAnYPWrQsnGPQ--&t=bf40f0ab4e5e63171dd16036913ae828",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/umv?e=QVJtU2ZFenRkb2M0Um1lTENFakJtZHVPNmlHbHVqT04wRU5QRkZicTA0Y2xMREFnbk5PZ3Jqb05jbUdGUGFtRTo6ZITt0G6YQuAnYPWrQsnGPQ--&t=bf40f0ab4e5e63171dd16036913ae828\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        },
+        {
+          "id": 4,
+          "nombre": "Desuka",
+          "iframe": "https://jkanime.net/jkplayer/jk?u=stream/jkmedia/bf40f0ab4e5e63171dd16036913ae828/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/",
+          "html": "<iframe class=\"player_conte\" src=\"https://jkanime.net/jkplayer/jk?u=stream/jkmedia/bf40f0ab4e5e63171dd16036913ae828/a28e5f284a491ba9f012bd30c66f58ee/1/38.255.109.142/\" width=\"565\" height=\"318\" scrolling=\"no\" frameborder=\"0\" allowFullScreen=\"true\"></iframe>"
+        }
+      ]
+    }
+  ],
+  "url": "https://jkanime.net/one-piece/",
+  "totalCapitulos": 5,
+  "scrapeadoEn": "2026-08-23T19:55:36.359Z"
+}

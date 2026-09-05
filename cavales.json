@@ -11,7 +11,7 @@
       "quality": "720p",
       "note": "Canal ESPN 1 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN 2",
@@ -24,7 +24,7 @@
       "quality": "720p",
       "note": "Canal ESPN 2 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN 3",
@@ -37,7 +37,7 @@
       "quality": "720p",
       "note": "Canal ESPN 3 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn3\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn3\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN 4",
@@ -50,7 +50,7 @@
       "quality": "720p",
       "note": "Canal ESPN 4 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn4\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn4\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN 5",
@@ -63,7 +63,7 @@
       "quality": "720p",
       "note": "Canal ESPN 5 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn5\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn5\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN 6",
@@ -76,7 +76,7 @@
       "quality": "720p",
       "note": "Canal ESPN 6 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn6\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn6\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN 7",
@@ -89,7 +89,7 @@
       "quality": "720p",
       "note": "Canal ESPN 7 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn7\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn7\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "DSports 1",
@@ -102,7 +102,7 @@
       "quality": "720p",
       "note": "Canal DSports.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=dsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=dsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "DSports 2",
@@ -115,7 +115,7 @@
       "quality": "720p",
       "note": "Canal DSports 2.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=dsports2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=dsports2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "DSports Plus",
@@ -128,7 +128,7 @@
       "quality": "720p",
       "note": "Canal DSports Plus.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=dsportsplus\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=dsportsplus\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "zapping Sports + | Eventos",
@@ -141,7 +141,7 @@
       "quality": "720p",
       "note": "Canal zapping Sports +.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=zapping_ec\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=zapping_ec\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Movistar Deportes Perú",
@@ -154,7 +154,7 @@
       "quality": "720p",
       "note": "Canal Movistar Deportes Perú.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=movistar_deportes_peru\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=movistar_deportes_peru\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Liga 1 Max",
@@ -167,7 +167,7 @@
       "quality": "720p",
       "note": "Canal Liga 1 Max.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=liga1max\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=liga1max\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Universo USA",
@@ -180,7 +180,7 @@
       "quality": "720p",
       "note": "Canal Universo USA.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=universo\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=universo\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "TNT Sports",
@@ -193,7 +193,7 @@
       "quality": "720p",
       "note": "Canal TNT Sports.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=tntsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=tntsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN Premium",
@@ -206,7 +206,7 @@
       "quality": "720p",
       "note": "Canal ESPN Premium.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espnpremium\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espnpremium\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "TyC Sports",
@@ -219,7 +219,7 @@
       "quality": "720p",
       "note": "Canal TyC Sports.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=tycsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=tycsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Fox Sports",
@@ -232,7 +232,7 @@
       "quality": "720p",
       "note": "Canal Fox Sports.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=fox1ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=fox1ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Fox Sports 2",
@@ -245,7 +245,7 @@
       "quality": "720p",
       "note": "Canal Fox Sports 2.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=fox2ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=fox2ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Fox Sports 3",
@@ -258,7 +258,7 @@
       "quality": "720p",
       "note": "Canal Fox Sports 3.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=fox3ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=fox3ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Telefe",
@@ -271,7 +271,7 @@
       "quality": "720p",
       "note": "Canal Telefe.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=telefe\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=telefe\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Fox Deportes USA",
@@ -284,7 +284,7 @@
       "quality": "720p",
       "note": "Canal Fox Deportes USA.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=fox_deportes_usa\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=fox_deportes_usa\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Win Sports Plus",
@@ -297,7 +297,7 @@
       "quality": "720p",
       "note": "Canal Win Sports Plus.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=winplus\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=winplus\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "TUDN USA",
@@ -310,7 +310,7 @@
       "quality": "720p",
       "note": "Canal TUDN USA.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=tudn_usa\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=tudn_usa\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn 1 MX",
@@ -323,7 +323,7 @@
       "quality": "720p",
       "note": "Canal Espn 1 MX.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espnmx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espnmx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn 2 MX",
@@ -336,7 +336,7 @@
       "quality": "720p",
       "note": "Canal Espn 2 MX.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn2mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn2mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn 3 MX",
@@ -349,7 +349,7 @@
       "quality": "720p",
       "note": "Canal Espn 3 MX.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn3mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn3mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn 4 MX",
@@ -362,7 +362,7 @@
       "quality": "720p",
       "note": "Canal Espn 4 MX.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn4mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn4mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Azteca 7",
@@ -375,7 +375,7 @@
       "quality": "720p",
       "note": "Canal Azteca 7.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=azteca7\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=azteca7\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Canal 5 MX",
@@ -388,7 +388,7 @@
       "quality": "720p",
       "note": "Canal 5 México.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=canal5mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=canal5mx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "ESPN Deportes",
@@ -401,7 +401,7 @@
       "quality": "720p",
       "note": "Canal ESPN Deportes.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espndeportes\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espndeportes\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Sport TV 1",
@@ -414,7 +414,7 @@
       "quality": "720p",
       "note": "Canal Sport TV Brasil 1.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=sporttvbr1\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=sporttvbr1\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Win Sports",
@@ -427,7 +427,7 @@
       "quality": "720p",
       "note": "Canal Win Sports.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=winsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=winsports\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 1",
@@ -440,7 +440,7 @@
       "quality": "720p",
       "note": "Canal Premiere 1.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere1\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere1\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 2",
@@ -453,7 +453,7 @@
       "quality": "720p",
       "note": "Canal Premiere 2.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn Colombia",
@@ -466,7 +466,7 @@
       "quality": "720p",
       "note": "Canal Espn Colombia en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espnco\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espnco\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn 2 Colombia",
@@ -479,7 +479,7 @@
       "quality": "720p",
       "note": "Canal Espn 2 Colombia en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn2co\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn2co\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn 3 Colombia",
@@ -492,7 +492,7 @@
       "quality": "720p",
       "note": "Canal Espn 3 Colombia en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn3co\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn3co\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Sky Sports La Liga",
@@ -505,7 +505,7 @@
       "quality": "720p",
       "note": "Canal Sky Sports La Liga en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=sky_sports_laliga\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=sky_sports_laliga\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Sky Sports F1",
@@ -518,7 +518,7 @@
       "quality": "720p",
       "note": "Canal Sky Sports F1 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=sky_f1\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=sky_f1\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Sport TV 2",
@@ -531,7 +531,7 @@
       "quality": "720p",
       "note": "Canal Sport TV BR 2 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=sporttvbr2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=sporttvbr2\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 3",
@@ -544,7 +544,7 @@
       "quality": "720p",
       "note": "Canal Premiere 3 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere3\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere3\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 4",
@@ -557,7 +557,7 @@
       "quality": "720p",
       "note": "Canal Premiere 4 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere4\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere4\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 5",
@@ -570,7 +570,7 @@
       "quality": "720p",
       "note": "Canal Premiere 5 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere5\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere5\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 6",
@@ -583,7 +583,7 @@
       "quality": "720p",
       "note": "Canal Premiere 6 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere6\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere6\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 7",
@@ -596,7 +596,7 @@
       "quality": "720p",
       "note": "Canal Premiere 7 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere7\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere7\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Premiere 8",
@@ -609,7 +609,7 @@
       "quality": "720p",
       "note": "Canal Premiere 8 en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=premiere8\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=premiere8\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "TUDN MX",
@@ -622,7 +622,7 @@
       "quality": "720p",
       "note": "Canal TUDN MX en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=tudnmx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=tudnmx\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn AR",
@@ -635,7 +635,7 @@
       "quality": "720p",
       "note": "Canal Espn AR en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espnar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espnar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     },
     {
       "name": "Espn 4 AR",
@@ -648,7 +648,7 @@
       "quality": "720p",
       "note": "Canal Espn 4 AR en vivo.",
       "active": true,
-      "iframe": "<iframe src=\"https://stream-xhd.com/live2.php?stream=espn4ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
+      "iframe": "<iframe src=\"https://streamxhd.com/live2.php?stream=espn4ar\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\" allowfullscreen allow=\"encrypted-media; picture-in-picture\"></iframe>"
     }
   ]
 }

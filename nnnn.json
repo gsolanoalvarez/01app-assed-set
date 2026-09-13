@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "imagen_base": "https://www.tvporinternet2.com/imge/",
+  "imagen_base": "https://www.tvporinternet.org/imge/",
   "canales": [
     {
       "id": 1,

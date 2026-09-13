@@ -302,7 +302,7 @@
     {
       "id": 29,
       "nombre": "ESPN PREMIUM",
-      "imagen": "espnpremiumlat.webp",
+      "imagen": "espnpremium.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnpremiumlat.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -313,7 +313,7 @@
     {
       "id": 30,
       "nombre": "ESPN PREMIUM ARG",
-      "imagen": "espnpremiumar.webp",
+      "imagen": "espnpremium.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnpremiumar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -357,7 +357,7 @@
     {
       "id": 34,
       "nombre": "TNT SPORTS",
-      "imagen": "tntsportsar.webp",
+      "imagen": "tntsports.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/tntsportsar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -401,7 +401,7 @@
     {
       "id": 38,
       "nombre": "ESPN ARG",
-      "imagen": "espnar.webp",
+      "imagen": "espn.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",

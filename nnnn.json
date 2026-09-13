@@ -302,7 +302,7 @@
     {
       "id": 29,
       "nombre": "ESPN PREMIUM",
-      "imagen": "espnpremiumlat.webp",
+      "imagen": "espnpremium.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnpremiumlat.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",

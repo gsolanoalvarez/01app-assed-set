@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "imagen_base": "https://www.tvporinternet2.com/imge/",
+  "imagen_base": "https://www.tvporinternet.org/imge/",
   "canales": [
     {
       "id": 1,
@@ -313,7 +313,7 @@
     {
       "id": 30,
       "nombre": "ESPN PREMIUM ARG",
-      "imagen": "espnpremiumar.webp",
+      "imagen": "espnpremium.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnpremiumar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -355,17 +355,6 @@
       ]
     },
     {
-      "id": 34,
-      "nombre": "TNT SPORTS",
-      "imagen": "tntsportsar.webp",
-      "categoria": "Deportes",
-      "iframes": [
-        "<iframe src=\"https://embed.saohgdassregions.com/embed2/tntsportsar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<iframe src=\"https://embed.saohgdassregions.com/embed/tntsportsar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
-        "<script type=\"text/javascript\">width='100%', height='100%', id='tntsportsar';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
-      ]
-    },
-    {
       "id": 35,
       "nombre": "TUDN",
       "imagen": "tudn.webp",
@@ -401,7 +390,7 @@
     {
       "id": 38,
       "nombre": "ESPN ARG",
-      "imagen": "espnar.webp",
+      "imagen": "espn.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -522,7 +511,7 @@
     {
       "id": 49,
       "nombre": "ESPN MEXICO",
-      "imagen": "espnmexico.webp",
+      "imagen": "espn.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnmexico.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -533,7 +522,7 @@
     {
       "id": 50,
       "nombre": "ESPN 2 MEXICO",
-      "imagen": "espn2mexico.webp",
+      "imagen": "espn.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn2mexico.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -544,7 +533,7 @@
     {
       "id": 51,
       "nombre": "ESPN 3 MEXICO",
-      "imagen": "espn3mexico.webp",
+      "imagen": "espn.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn3mexico.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -555,7 +544,7 @@
     {
       "id": 52,
       "nombre": "ESPN 4 MEXICO",
-      "imagen": "espn4mexico.webp",
+      "imagen": "espn.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn4mexico.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
@@ -566,7 +555,7 @@
     {
       "id": 53,
       "nombre": "ESPN 5 MEXICO",
-      "imagen": "espn5mexico.webp",
+      "imagen": "espn.webp",
       "categoria": "Deportes",
       "iframes": [
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn5mexico.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",

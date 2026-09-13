@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "imagen_base": "https://www.tvporinternet.org/imge/",
+  "imagen_base": "https://www.tvporinternet2.com/imge/",
   "canales": [
     {
       "id": 1,
@@ -297,6 +297,204 @@
         "<iframe src=\"https://embed.saohgdassregions.com/embed2/warnerchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
         "<iframe src=\"https://embed.saohgdassregions.com/embed/warnerchannel.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
         "<script type=\"text/javascript\">width='100%', height='100%', id='warnerchannel';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed2.js\"></script>"
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "ESPN PREMIUM",
+      "imagen": "espnpremiumlat.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnpremiumlat.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espnpremiumlat.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espnpremiumlat';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 30,
+      "nombre": "ESPN PREMIUM ARG",
+      "imagen": "espnpremiumar.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnpremiumar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espnpremiumar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espnpremiumar';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "FOX SPORTS",
+      "imagen": "foxsports.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/foxsports.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/foxsports.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='foxsports';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 32,
+      "nombre": "FOX SPORTS 2",
+      "imagen": "foxsports2.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/foxsports2.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/foxsports2.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='foxsports2';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "FOX SPORTS 3",
+      "imagen": "foxsports3.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/foxsports3.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/foxsports3.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='foxsports3';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 34,
+      "nombre": "TNT SPORTS",
+      "imagen": "tntsportsar.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/tntsportsar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/tntsportsar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='tntsportsar';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 35,
+      "nombre": "TUDN",
+      "imagen": "tudn.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/tudn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/tudn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='tudn';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 36,
+      "nombre": "TYC SPORTS",
+      "imagen": "tycsports.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/tycsports.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/tycsports.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='tycsports';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 37,
+      "nombre": "ESPN",
+      "imagen": "espn.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 38,
+      "nombre": "ESPN ARG",
+      "imagen": "espnar.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espnar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espnar.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espnar';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 39,
+      "nombre": "ESPN COL",
+      "imagen": "espn.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 40,
+      "nombre": "ESPN 2",
+      "imagen": "espn2.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn2.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn2.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn2';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 41,
+      "nombre": "ESPN 3",
+      "imagen": "espn3.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn3.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn3.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn3';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 42,
+      "nombre": "ESPN 4",
+      "imagen": "espn4.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn4.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn4.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn4';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 43,
+      "nombre": "ESPN 5",
+      "imagen": "espn5.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn5.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn5.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn5';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 44,
+      "nombre": "ESPN 6",
+      "imagen": "espn6.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn6.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn6.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn6';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 45,
+      "nombre": "ESPN 7",
+      "imagen": "espn7.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/espn7.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/espn7.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='espn7';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
+      ]
+    },
+    {
+      "id": 46,
+      "nombre": "DIRECTV SPORTS",
+      "imagen": "directvsports.webp",
+      "categoria": "Deportes",
+      "iframes": [
+        "<iframe src=\"https://embed.saohgdassregions.com/embed2/directvsports.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<iframe src=\"https://embed.saohgdassregions.com/embed/directvsports.php\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"></iframe>",
+        "<script type=\"text/javascript\">width='100%', height='100%', id='directvsports';</script><script type=\"text/javascript\" src=\"https://embed.saohgdassregions.com/embed.js\"></script>"
       ]
     }
   ]

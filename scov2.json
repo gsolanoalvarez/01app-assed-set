@@ -1,0 +1,44 @@
+{
+  "imagenes": [
+    {
+      "titulo": "Imagen 1",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 2",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 3",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 4",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 5",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 6",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 7",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 8",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 9",
+      "url": ""
+    },
+    {
+      "titulo": "Imagen 10",
+      "url": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "evento1": "https://tirogol.com/diario.json?_=1790178463972",
   "evento2": "https://api.wqxag.com/diaries.json",
-  "evento3": "https://agenda18.com/agenda.json",
+  "evento3": "https://tirogol.com/diario.json?_=1790178463972",
   "tv1": "https://raw.githubusercontent.com/gsolanoalvarez/01app-assed-set/refs/heads/main/cavales.json",
   "tv3": "https://raw.githubusercontent.com/gsolanoalvarez/01app-assed-set/refs/heads/main/configftv3.json",
   "tv2": "https://tvf90.com/status.json?_=1790179130546"

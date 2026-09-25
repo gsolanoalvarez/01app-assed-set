@@ -1,8 +1,8 @@
 {
   "evento1": "https://api.wqxag.com/diaries.json",
   "evento2": "https://tirogol.com/diario.json?_=1790178463972",
-  "evento3": "https://streamx305.sbs/json/agenda550.json?nocache=1790219262465",
-  "evento4": "https://streamxhd.com/eventos.json?v=1790298118007",
+  "evento3": "https://streamxhd.com/eventos.json?v=1790305161746",
   "tv1": "https://raw.githubusercontent.com/gsolanoalvarez/01app-assed-set/refs/heads/main/cavales.json",
-  "tv2": "https://tvf90.com/status.json?_=1790179130546"
+  "tv2": "https://tvf90.com/status.json?_=1790179130546",
+  "tv3": "https://raw.githubusercontent.com/gsolanoalvarez/01app-assed-set/refs/heads/main/configftv3.json"
 }

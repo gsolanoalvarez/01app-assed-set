@@ -1,0 +1,44 @@
+{
+  "imagenes": [
+    {
+      "titulo": "Imagen 1",
+      "url": "https://i.imgur.com/6esFyXa.png"
+    },
+    {
+      "titulo": "Imagen 2",
+      "url": "https://i.imgur.com/bzga5E5.jpeg"
+    },
+    {
+      "titulo": "Imagen 3",
+      "url": "https://i.imgur.com/vc4WVhL.jpeg"
+    },
+    {
+      "titulo": "Imagen 4",
+      "url": "https://i.imgur.com/g9GbuQF.jpeg"
+    },
+    {
+      "titulo": "Imagen 5",
+      "url": "https://i.imgur.com/GdSJTcG.jpeg"
+    },
+    {
+      "titulo": "Imagen 6",
+      "url": "https://i.imgur.com/RriCDNV.png"
+    },
+    {
+      "titulo": "Imagen 7",
+      "url": "https://i.imgur.com/rcPfj7I.png"
+    },
+    {
+      "titulo": "Imagen 8",
+      "url": "https://i.imgur.com/WvFVdfO.jpeg"
+    },
+    {
+      "titulo": "Imagen 9",
+      "url": "https://i.imgur.com/y7LX7vk.jpeg"
+    },
+    {
+      "titulo": "Imagen 10",
+      "url": "https://i.imgur.com/2WwEUYG.jpeg"
+    }
+  ]
+}

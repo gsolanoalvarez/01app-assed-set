@@ -1,4 +1,420 @@
-"id": 42,
+{
+  "titulo": "Superclásicos y grandes clásicos del fútbol mundial",
+  "descripcion": "Compilación de rivalidades destacadas. No existe un registro oficial único y exhaustivo; algunas denominaciones son clásicos nacionales o derbis, no siempre llamados literalmente superclásicos.",
+  "total": 52,
+  "derbis": [
+    {
+      "id": 1,
+      "nombre": "Superclásico del fútbol argentino",
+      "equipo_1": "Boca Juniors",
+      "equipo_2": "River Plate",
+      "pais": "Argentina",
+      "ciudad_o_region": "Buenos Aires",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 2,
+      "nombre": "Clásico de Avellaneda",
+      "equipo_1": "Independiente",
+      "equipo_2": "Racing Club",
+      "pais": "Argentina",
+      "ciudad_o_region": "Avellaneda",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 3,
+      "nombre": "Clásico rosarino",
+      "equipo_1": "Rosario Central",
+      "equipo_2": "Newell's Old Boys",
+      "pais": "Argentina",
+      "ciudad_o_region": "Rosario",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 4,
+      "nombre": "Superclásico uruguayo",
+      "equipo_1": "Nacional",
+      "equipo_2": "Peñarol",
+      "pais": "Uruguay",
+      "ciudad_o_region": "Montevideo",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 5,
+      "nombre": "Superclásico del fútbol brasileño",
+      "equipo_1": "Flamengo",
+      "equipo_2": "Palmeiras",
+      "pais": "Brasil",
+      "ciudad_o_region": "Rivalidad nacional",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 6,
+      "nombre": "Fla-Flu",
+      "equipo_1": "Flamengo",
+      "equipo_2": "Fluminense",
+      "pais": "Brasil",
+      "ciudad_o_region": "Río de Janeiro",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 7,
+      "nombre": "Derby Paulista",
+      "equipo_1": "Corinthians",
+      "equipo_2": "Palmeiras",
+      "pais": "Brasil",
+      "ciudad_o_region": "São Paulo",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 8,
+      "nombre": "Gre-Nal",
+      "equipo_1": "Grêmio",
+      "equipo_2": "Internacional",
+      "pais": "Brasil",
+      "ciudad_o_region": "Porto Alegre",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 9,
+      "nombre": "Clásico del fútbol chileno",
+      "equipo_1": "Colo-Colo",
+      "equipo_2": "Universidad de Chile",
+      "pais": "Chile",
+      "ciudad_o_region": "Santiago",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 10,
+      "nombre": "Clásico del fútbol peruano",
+      "equipo_1": "Alianza Lima",
+      "equipo_2": "Universitario",
+      "pais": "Perú",
+      "ciudad_o_region": "Lima",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 11,
+      "nombre": "Clásico del Astillero",
+      "equipo_1": "Barcelona SC",
+      "equipo_2": "Emelec",
+      "pais": "Ecuador",
+      "ciudad_o_region": "Guayaquil",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 12,
+      "nombre": "Superclásico paraguayo",
+      "equipo_1": "Olimpia",
+      "equipo_2": "Cerro Porteño",
+      "pais": "Paraguay",
+      "ciudad_o_region": "Asunción",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 13,
+      "nombre": "Superclásico de Colombia",
+      "equipo_1": "Millonarios",
+      "equipo_2": "Atlético Nacional",
+      "pais": "Colombia",
+      "ciudad_o_region": "Bogotá / Medellín",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 14,
+      "nombre": "Clásico paceño",
+      "equipo_1": "Bolívar",
+      "equipo_2": "The Strongest",
+      "pais": "Bolivia",
+      "ciudad_o_region": "La Paz",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 15,
+      "nombre": "Clásico venezolano",
+      "equipo_1": "Caracas FC",
+      "equipo_2": "Deportivo Táchira",
+      "pais": "Venezuela",
+      "ciudad_o_region": "Caracas / San Cristóbal",
+      "confederacion_o_region": "Sudamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 16,
+      "nombre": "Clásico costarricense",
+      "equipo_1": "Deportivo Saprissa",
+      "equipo_2": "LD Alajuelense",
+      "pais": "Costa Rica",
+      "ciudad_o_region": "San José / Alajuela",
+      "confederacion_o_region": "Norteamérica y Centroamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 17,
+      "nombre": "Clásico nacional mexicano",
+      "equipo_1": "América",
+      "equipo_2": "Chivas",
+      "pais": "México",
+      "ciudad_o_region": "Ciudad de México / Guadalajara",
+      "confederacion_o_region": "Norteamérica y Centroamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 18,
+      "nombre": "Clásico regiomontano",
+      "equipo_1": "Monterrey",
+      "equipo_2": "Tigres UANL",
+      "pais": "México",
+      "ciudad_o_region": "Monterrey",
+      "confederacion_o_region": "Norteamérica y Centroamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 19,
+      "nombre": "Clásico hondureño",
+      "equipo_1": "Olimpia",
+      "equipo_2": "Motagua",
+      "pais": "Honduras",
+      "ciudad_o_region": "Tegucigalpa",
+      "confederacion_o_region": "Norteamérica y Centroamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 20,
+      "nombre": "Clásico chapín",
+      "equipo_1": "Municipal",
+      "equipo_2": "Comunicaciones",
+      "pais": "Guatemala",
+      "ciudad_o_region": "Ciudad de Guatemala",
+      "confederacion_o_region": "Norteamérica y Centroamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 21,
+      "nombre": "Superclásico salvadoreño",
+      "equipo_1": "Águila",
+      "equipo_2": "FAS",
+      "pais": "El Salvador",
+      "ciudad_o_region": "San Miguel / Santa Ana",
+      "confederacion_o_region": "Norteamérica y Centroamérica",
+      "categoria": "clubes"
+    },
+    {
+      "id": 22,
+      "nombre": "El Clásico",
+      "equipo_1": "Real Madrid",
+      "equipo_2": "Barcelona",
+      "pais": "España",
+      "ciudad_o_region": "Madrid / Barcelona",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 23,
+      "nombre": "Derbi madrileño",
+      "equipo_1": "Real Madrid",
+      "equipo_2": "Atlético de Madrid",
+      "pais": "España",
+      "ciudad_o_region": "Madrid",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 24,
+      "nombre": "Gran Derbi sevillano",
+      "equipo_1": "Sevilla",
+      "equipo_2": "Real Betis",
+      "pais": "España",
+      "ciudad_o_region": "Sevilla",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 25,
+      "nombre": "Derbi vasco",
+      "equipo_1": "Athletic Club",
+      "equipo_2": "Real Sociedad",
+      "pais": "España",
+      "ciudad_o_region": "País Vasco",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 26,
+      "nombre": "Derby della Madonnina",
+      "equipo_1": "AC Milan",
+      "equipo_2": "Inter de Milán",
+      "pais": "Italia",
+      "ciudad_o_region": "Milán",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 27,
+      "nombre": "Derby della Capitale",
+      "equipo_1": "Roma",
+      "equipo_2": "Lazio",
+      "pais": "Italia",
+      "ciudad_o_region": "Roma",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 28,
+      "nombre": "Derby d'Italia",
+      "equipo_1": "Juventus",
+      "equipo_2": "Inter de Milán",
+      "pais": "Italia",
+      "ciudad_o_region": "Rivalidad nacional",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 29,
+      "nombre": "Old Firm",
+      "equipo_1": "Celtic",
+      "equipo_2": "Rangers",
+      "pais": "Escocia",
+      "ciudad_o_region": "Glasgow",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 30,
+      "nombre": "De Klassieker",
+      "equipo_1": "Ajax",
+      "equipo_2": "Feyenoord",
+      "pais": "Países Bajos",
+      "ciudad_o_region": "Ámsterdam / Róterdam",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 31,
+      "nombre": "Le Classique",
+      "equipo_1": "Paris Saint-Germain",
+      "equipo_2": "Olympique de Marsella",
+      "pais": "Francia",
+      "ciudad_o_region": "París / Marsella",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 32,
+      "nombre": "O Clássico",
+      "equipo_1": "Benfica",
+      "equipo_2": "Porto",
+      "pais": "Portugal",
+      "ciudad_o_region": "Lisboa / Oporto",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 33,
+      "nombre": "Der Klassiker",
+      "equipo_1": "Bayern Múnich",
+      "equipo_2": "Borussia Dortmund",
+      "pais": "Alemania",
+      "ciudad_o_region": "Múnich / Dortmund",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 34,
+      "nombre": "Revierderby",
+      "equipo_1": "Borussia Dortmund",
+      "equipo_2": "Schalke 04",
+      "pais": "Alemania",
+      "ciudad_o_region": "Dortmund / Gelsenkirchen",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 35,
+      "nombre": "Intercontinental Derby",
+      "equipo_1": "Galatasaray",
+      "equipo_2": "Fenerbahçe",
+      "pais": "Turquía",
+      "ciudad_o_region": "Estambul",
+      "confederacion_o_region": "Europa / Asia",
+      "categoria": "clubes"
+    },
+    {
+      "id": 36,
+      "nombre": "Eternal Derby",
+      "equipo_1": "Estrella Roja",
+      "equipo_2": "Partizan",
+      "pais": "Serbia",
+      "ciudad_o_region": "Belgrado",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 37,
+      "nombre": "Derby of the Eternal Enemies",
+      "equipo_1": "Olympiacos",
+      "equipo_2": "Panathinaikos",
+      "pais": "Grecia",
+      "ciudad_o_region": "El Pireo / Atenas",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 38,
+      "nombre": "Derbi de Ucrania",
+      "equipo_1": "Dynamo Kyiv",
+      "equipo_2": "Shakhtar Donetsk",
+      "pais": "Ucrania",
+      "ciudad_o_region": "Kyiv / Donetsk",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 39,
+      "nombre": "Derbi eterno de Bulgaria",
+      "equipo_1": "Levski Sofia",
+      "equipo_2": "CSKA Sofia",
+      "pais": "Bulgaria",
+      "ciudad_o_region": "Sofía",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 40,
+      "nombre": "Clásico de Bucarest",
+      "equipo_1": "FCSB",
+      "equipo_2": "Dinamo București",
+      "pais": "Rumanía",
+      "ciudad_o_region": "Bucarest",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 41,
+      "nombre": "Derbi eterno esloveno",
+      "equipo_1": "Maribor",
+      "equipo_2": "Olimpija Ljubljana",
+      "pais": "Eslovenia",
+      "ciudad_o_region": "Maribor / Liubliana",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 42,
       "nombre": "Derbi de Moscú",
       "equipo_1": "Spartak Moscú",
       "equipo_2": "CSKA Moscú",

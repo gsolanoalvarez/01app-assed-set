@@ -1,0 +1,111 @@
+"id": 42,
+      "nombre": "Derbi de Moscú",
+      "equipo_1": "Spartak Moscú",
+      "equipo_2": "CSKA Moscú",
+      "pais": "Rusia",
+      "ciudad_o_region": "Moscú",
+      "confederacion_o_region": "Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 43,
+      "nombre": "Cairo Derby",
+      "equipo_1": "Al Ahly",
+      "equipo_2": "Zamalek",
+      "pais": "Egipto",
+      "ciudad_o_region": "El Cairo",
+      "confederacion_o_region": "África",
+      "categoria": "clubes"
+    },
+    {
+      "id": 44,
+      "nombre": "Soweto Derby",
+      "equipo_1": "Kaizer Chiefs",
+      "equipo_2": "Orlando Pirates",
+      "pais": "Sudáfrica",
+      "ciudad_o_region": "Johannesburgo",
+      "confederacion_o_region": "África",
+      "categoria": "clubes"
+    },
+    {
+      "id": 45,
+      "nombre": "Casablanca Derby",
+      "equipo_1": "Wydad Casablanca",
+      "equipo_2": "Raja Casablanca",
+      "pais": "Marruecos",
+      "ciudad_o_region": "Casablanca",
+      "confederacion_o_region": "África",
+      "categoria": "clubes"
+    },
+    {
+      "id": 46,
+      "nombre": "Derbi de Teherán",
+      "equipo_1": "Esteghlal",
+      "equipo_2": "Persepolis",
+      "pais": "Irán",
+      "ciudad_o_region": "Teherán",
+      "confederacion_o_region": "Asia",
+      "categoria": "clubes"
+    },
+    {
+      "id": 47,
+      "nombre": "Clásico de Estambul",
+      "equipo_1": "Galatasaray",
+      "equipo_2": "Fenerbahçe",
+      "pais": "Turquía",
+      "ciudad_o_region": "Estambul",
+      "confederacion_o_region": "Asia / Europa",
+      "categoria": "clubes"
+    },
+    {
+      "id": 48,
+      "nombre": "Clásico de Uzbekistán",
+      "equipo_1": "Pakhtakor Tashkent",
+      "equipo_2": "Neftchi Fergana",
+      "pais": "Uzbekistán",
+      "ciudad_o_region": "Tashkent / Fergana",
+      "confederacion_o_region": "Asia",
+      "categoria": "clubes"
+    },
+    {
+      "id": 49,
+      "nombre": "Superclásico de las Américas",
+      "equipo_1": "Argentina",
+      "equipo_2": "Brasil",
+      "pais": "Selecciones nacionales",
+      "ciudad_o_region": "Sudamérica",
+      "confederacion_o_region": "Internacional",
+      "categoria": "selecciones"
+    },
+    {
+      "id": 50,
+      "nombre": "Clásico del Río de la Plata",
+      "equipo_1": "Argentina",
+      "equipo_2": "Uruguay",
+      "pais": "Selecciones nacionales",
+      "ciudad_o_region": "Río de la Plata",
+      "confederacion_o_region": "Internacional",
+      "categoria": "selecciones"
+    },
+    {
+      "id": 51,
+      "nombre": "Clásico centroamericano",
+      "equipo_1": "Costa Rica",
+      "equipo_2": "Honduras",
+      "pais": "Selecciones nacionales",
+      "ciudad_o_region": "Centroamérica",
+      "confederacion_o_region": "Internacional",
+      "categoria": "selecciones"
+    },
+    {
+      "id": 52,
+      "nombre": "Estados Unidos vs México",
+      "equipo_1": "Estados Unidos",
+      "equipo_2": "México",
+      "pais": "Selecciones nacionales",
+      "ciudad_o_region": "Norteamérica",
+      "confederacion_o_region": "Internacional",
+      "categoria": "selecciones"
+    }
+  ]
+}
